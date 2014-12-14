@@ -49,13 +49,13 @@ namespace SilverFiszki
 
         private void LeftButton_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(NaukaPage));
+            this.Frame.Navigate(typeof(StatsPage));
             Counter.Jezyk = "en";
         }
 
         private void RightButton_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(NaukaPage));
+            this.Frame.Navigate(typeof(StatsPage));
             Counter.Jezyk = "pl";
         }
     }

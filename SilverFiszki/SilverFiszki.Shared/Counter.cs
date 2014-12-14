@@ -11,5 +11,7 @@ namespace SilverFiszki
         public static int Nieznam { get; set; }
 
         public static string Jezyk { get; set; }
+        public static string Poziom { get; set; }
+        public static int PoziomNumer { get; set; }
     }
 }

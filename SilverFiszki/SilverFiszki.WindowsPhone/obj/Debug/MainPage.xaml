@@ -46,14 +46,24 @@
                 FontSize="30" 
                 HorizontalAlignment="Stretch"
                 VerticalAlignment="Stretch"
-                                        />
+                BorderThickness="0"
+                                        >
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/Assets/Flaga/angielski.png" />
+                </Button.Background>
+            </Button>
                 
             <Button x:ConnectionId='2' 
                 Grid.Column="1" 
                 FontSize="30" 
+                BorderThickness="0"
                 HorizontalAlignment="Stretch"
                 VerticalAlignment="Stretch"
-                                         />
+                                         >
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/Assets/polski.png" />
+                </Button.Background>
+            </Button>
         </Grid>
      </Grid>
 </Page>

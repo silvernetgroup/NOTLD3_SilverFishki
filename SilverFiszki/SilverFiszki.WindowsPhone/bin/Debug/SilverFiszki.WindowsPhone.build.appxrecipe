@@ -7,391 +7,607 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>052c230b-c347-4176-ba18-e6c8adda9099</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.exe">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.exe">
       <PackagePath>SilverFiszki.WindowsPhone.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\angielski.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\angielski.png">
       <PackagePath>Assets\angielski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\1.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\1.png">
       <PackagePath>Assets\Assets\Data\1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\10.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\10.png">
       <PackagePath>Assets\Assets\Data\10.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\11.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\11.png">
       <PackagePath>Assets\Assets\Data\11.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\12.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\12.png">
       <PackagePath>Assets\Assets\Data\12.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\13.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\13.png">
       <PackagePath>Assets\Assets\Data\13.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\14.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\14.png">
       <PackagePath>Assets\Assets\Data\14.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\15.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\15.png">
       <PackagePath>Assets\Assets\Data\15.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\16.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\16.png">
       <PackagePath>Assets\Assets\Data\16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\17.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\17.png">
       <PackagePath>Assets\Assets\Data\17.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\18.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\18.png">
       <PackagePath>Assets\Assets\Data\18.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\19.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\19.png">
       <PackagePath>Assets\Assets\Data\19.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\2.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\2.png">
       <PackagePath>Assets\Assets\Data\2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\20.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\20.png">
       <PackagePath>Assets\Assets\Data\20.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\21.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\21.png">
       <PackagePath>Assets\Assets\Data\21.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\22.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\22.png">
       <PackagePath>Assets\Assets\Data\22.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\23.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\23.png">
       <PackagePath>Assets\Assets\Data\23.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\24.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\24.png">
       <PackagePath>Assets\Assets\Data\24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\25.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\25.png">
       <PackagePath>Assets\Assets\Data\25.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\26.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\26.png">
       <PackagePath>Assets\Assets\Data\26.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\27.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\27.png">
       <PackagePath>Assets\Assets\Data\27.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\28.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\28.png">
       <PackagePath>Assets\Assets\Data\28.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\29.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\29.png">
       <PackagePath>Assets\Assets\Data\29.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\3.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\3.png">
       <PackagePath>Assets\Assets\Data\3.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\30.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\30.png">
       <PackagePath>Assets\Assets\Data\30.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\4.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\4.png">
       <PackagePath>Assets\Assets\Data\4.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\5.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\5.png">
       <PackagePath>Assets\Assets\Data\5.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\6.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\6.png">
       <PackagePath>Assets\Assets\Data\6.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\7.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\7.png">
       <PackagePath>Assets\Assets\Data\7.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\8.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\8.png">
       <PackagePath>Assets\Assets\Data\8.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\9.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\9.png">
       <PackagePath>Assets\Assets\Data\9.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\angAct.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\angAct.png">
       <PackagePath>Assets\Assets\Flaga\angAct.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\angielski.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\angielski.png">
       <PackagePath>Assets\Assets\Flaga\angielski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\polski.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\polski.png">
       <PackagePath>Assets\Assets\Flaga\polski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\Wroc.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\Wroc.png">
       <PackagePath>Assets\Assets\Flaga\Wroc.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\IconNoTekst.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\IconNoTekst.png">
       <PackagePath>Assets\Assets\IconNoTekst.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\IconPNG.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\IconPNG.png">
       <PackagePath>Assets\Assets\IconPNG.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon1000.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon1000.png">
       <PackagePath>Assets\Assets\icon\Icon1000.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon1116.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon1116.png">
       <PackagePath>Assets\Assets\icon\Icon1116.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon120.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon120.png">
       <PackagePath>Assets\Assets\icon\Icon120.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon150.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon150.png">
       <PackagePath>Assets\Assets\icon\Icon150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon16.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon16.png">
       <PackagePath>Assets\Assets\icon\Icon16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon210.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon210.png">
       <PackagePath>Assets\Assets\icon\Icon210.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon24.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon24.png">
       <PackagePath>Assets\Assets\icon\Icon24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon248.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon248.png">
       <PackagePath>Assets\Assets\icon\Icon248.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon256.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon256.png">
       <PackagePath>Assets\Assets\icon\Icon256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon270.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon270.png">
       <PackagePath>Assets\Assets\icon\Icon270.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon30.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon30.png">
       <PackagePath>Assets\Assets\icon\Icon30.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon300.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon300.png">
       <PackagePath>Assets\Assets\icon\Icon300.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon310.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon310.png">
       <PackagePath>Assets\Assets\icon\Icon310.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon32.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon32.png">
       <PackagePath>Assets\Assets\icon\Icon32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-100.png">
       <PackagePath>Assets\Assets\icon\Icon33.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-140.png">
       <PackagePath>Assets\Assets\icon\Icon33.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-180.png">
       <PackagePath>Assets\Assets\icon\Icon33.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon42.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon42.png">
       <PackagePath>Assets\Assets\icon\Icon42.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon43.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon43.png">
       <PackagePath>Assets\Assets\icon\Icon43.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon434.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon434.scale-140.png">
       <PackagePath>Assets\Assets\icon\Icon434.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-100.png">
       <PackagePath>Assets\Assets\icon\Icon48.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-140.png">
       <PackagePath>Assets\Assets\icon\Icon48.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-180.png">
       <PackagePath>Assets\Assets\icon\Icon48.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon50.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon50.png">
       <PackagePath>Assets\Assets\icon\Icon50.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon54.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon54.png">
       <PackagePath>Assets\Assets\icon\Icon54.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-100.png">
       <PackagePath>Assets\Assets\icon\Icon558.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-140.png">
       <PackagePath>Assets\Assets\icon\Icon558.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-180.png">
       <PackagePath>Assets\Assets\icon\Icon558.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-80.png">
       <PackagePath>Assets\Assets\icon\Icon558.scale-80.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon620.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon620.png">
       <PackagePath>Assets\Assets\icon\Icon620.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon70.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon70.scale-100.png">
       <PackagePath>Assets\Assets\icon\Icon70.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon868.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon868.png">
       <PackagePath>Assets\Assets\icon\Icon868.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon90.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon90.png">
       <PackagePath>Assets\Assets\icon\Icon90.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Assets\Logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-140.png">
       <PackagePath>Assets\Assets\Logo.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-180.png">
       <PackagePath>Assets\Assets\Logo.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-80.png">
       <PackagePath>Assets\Assets\Logo.scale-80.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\polski.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\polski.png">
       <PackagePath>Assets\Assets\polski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\Assets\SmallLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-140.png">
       <PackagePath>Assets\Assets\SmallLogo.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-180.png">
       <PackagePath>Assets\Assets\SmallLogo.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-80.png">
       <PackagePath>Assets\Assets\SmallLogo.scale-80.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\Assets\SplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-140.png">
       <PackagePath>Assets\Assets\SplashScreen.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-180.png">
       <PackagePath>Assets\Assets\SplashScreen.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\Assets\StoreLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-140.png">
       <PackagePath>Assets\Assets\StoreLogo.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-180.png">
       <PackagePath>Assets\Assets\StoreLogo.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\NieZnam.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\NieZnam.png">
       <PackagePath>Assets\Assets\ZnamNieznam\NieZnam.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\NieZnamAct.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\NieZnamAct.png">
       <PackagePath>Assets\Assets\ZnamNieznam\NieZnamAct.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\Znam.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\Znam.png">
       <PackagePath>Assets\Assets\ZnamNieznam\Znam.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\ZnamAct.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\ZnamAct.png">
       <PackagePath>Assets\Assets\ZnamNieznam\ZnamAct.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\IconNoTekst.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\1.png">
+      <PackagePath>Assets\Data\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\10.png">
+      <PackagePath>Assets\Data\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\11.png">
+      <PackagePath>Assets\Data\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\12.png">
+      <PackagePath>Assets\Data\12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\13.png">
+      <PackagePath>Assets\Data\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\14.png">
+      <PackagePath>Assets\Data\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\15.png">
+      <PackagePath>Assets\Data\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\16.png">
+      <PackagePath>Assets\Data\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\17.png">
+      <PackagePath>Assets\Data\17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\18.png">
+      <PackagePath>Assets\Data\18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\19.png">
+      <PackagePath>Assets\Data\19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\2.png">
+      <PackagePath>Assets\Data\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\20.png">
+      <PackagePath>Assets\Data\20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\21.png">
+      <PackagePath>Assets\Data\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\22.png">
+      <PackagePath>Assets\Data\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\23.png">
+      <PackagePath>Assets\Data\23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\24.png">
+      <PackagePath>Assets\Data\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\25.png">
+      <PackagePath>Assets\Data\25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\26.png">
+      <PackagePath>Assets\Data\26.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\27.png">
+      <PackagePath>Assets\Data\27.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\28.png">
+      <PackagePath>Assets\Data\28.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\29.png">
+      <PackagePath>Assets\Data\29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\3.png">
+      <PackagePath>Assets\Data\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\30.png">
+      <PackagePath>Assets\Data\30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\4.png">
+      <PackagePath>Assets\Data\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\5.png">
+      <PackagePath>Assets\Data\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\6.png">
+      <PackagePath>Assets\Data\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\7.png">
+      <PackagePath>Assets\Data\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\8.png">
+      <PackagePath>Assets\Data\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\9.png">
+      <PackagePath>Assets\Data\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Flaga\angAct.png">
+      <PackagePath>Assets\Flaga\angAct.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Flaga\angielski.png">
+      <PackagePath>Assets\Flaga\angielski.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Flaga\polski.png">
+      <PackagePath>Assets\Flaga\polski.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Flaga\Wroc.png">
+      <PackagePath>Assets\Flaga\Wroc.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\IconNoTekst.png">
       <PackagePath>Assets\IconNoTekst.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\IconPNG.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\IconPNG.png">
       <PackagePath>Assets\IconPNG.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon1000.png">
+      <PackagePath>Assets\icon\Icon1000.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon1116.png">
+      <PackagePath>Assets\icon\Icon1116.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon120.png">
+      <PackagePath>Assets\icon\Icon120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon150.png">
+      <PackagePath>Assets\icon\Icon150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon16.png">
+      <PackagePath>Assets\icon\Icon16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon210.png">
+      <PackagePath>Assets\icon\Icon210.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon24.png">
+      <PackagePath>Assets\icon\Icon24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon248.png">
+      <PackagePath>Assets\icon\Icon248.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon256.png">
+      <PackagePath>Assets\icon\Icon256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon270.png">
+      <PackagePath>Assets\icon\Icon270.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon30.png">
+      <PackagePath>Assets\icon\Icon30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon300.png">
+      <PackagePath>Assets\icon\Icon300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon310.png">
+      <PackagePath>Assets\icon\Icon310.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon32.png">
+      <PackagePath>Assets\icon\Icon32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon33.scale-100.png">
+      <PackagePath>Assets\icon\Icon33.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon33.scale-140.png">
+      <PackagePath>Assets\icon\Icon33.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon33.scale-180.png">
+      <PackagePath>Assets\icon\Icon33.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon42.png">
+      <PackagePath>Assets\icon\Icon42.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon43.png">
+      <PackagePath>Assets\icon\Icon43.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon434.scale-140.png">
+      <PackagePath>Assets\icon\Icon434.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon48.scale-100.png">
+      <PackagePath>Assets\icon\Icon48.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon48.scale-140.png">
+      <PackagePath>Assets\icon\Icon48.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon48.scale-180.png">
+      <PackagePath>Assets\icon\Icon48.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon50.png">
+      <PackagePath>Assets\icon\Icon50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon54.png">
+      <PackagePath>Assets\icon\Icon54.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon558.scale-100.png">
+      <PackagePath>Assets\icon\Icon558.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon558.scale-140.png">
+      <PackagePath>Assets\icon\Icon558.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon558.scale-180.png">
+      <PackagePath>Assets\icon\Icon558.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon558.scale-80.png">
+      <PackagePath>Assets\icon\Icon558.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon620.png">
+      <PackagePath>Assets\icon\Icon620.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon70.scale-100.png">
+      <PackagePath>Assets\icon\Icon70.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon868.png">
+      <PackagePath>Assets\icon\Icon868.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon90.png">
+      <PackagePath>Assets\icon\Icon90.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-140.png">
       <PackagePath>Assets\Logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-180.png">
       <PackagePath>Assets\Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-80.png">
       <PackagePath>Assets\Logo.scale-80.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\polski.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\polski.png">
       <PackagePath>Assets\polski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-140.png">
       <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-180.png">
       <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-80.png">
       <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-140.png">
       <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-180.png">
       <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-140.png">
       <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-180.png">
       <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\wallpaper.jpg">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\ZnamNieznam\NieZnam.png">
+      <PackagePath>Assets\ZnamNieznam\NieZnam.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\ZnamNieznam\NieZnamAct.png">
+      <PackagePath>Assets\ZnamNieznam\NieZnamAct.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\ZnamNieznam\Znam.png">
+      <PackagePath>Assets\ZnamNieznam\Znam.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\ZnamNieznam\ZnamAct.png">
+      <PackagePath>Assets\ZnamNieznam\ZnamAct.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\wallpaper.jpg">
       <PackagePath>Assets\Assets\wallpaper.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\wallpaper.jpg">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\Assets\wallpaper.jpg">
       <PackagePath>Assets\wallpaper.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\NaukaPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\NaukaPage.xbf">
       <PackagePath>NaukaPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\StatsPage.xbf">
+      <PackagePath>StatsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.xr.xml">
       <PackagePath>SilverFiszki.WindowsPhone.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

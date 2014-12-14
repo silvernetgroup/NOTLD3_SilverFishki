@@ -1,1 +1,1 @@
-c:\users\mateusz\documents\visual studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.Windows\SilverFiszki.Windows.csproj;neutral
+C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.Windows\SilverFiszki.Windows.csproj;neutral

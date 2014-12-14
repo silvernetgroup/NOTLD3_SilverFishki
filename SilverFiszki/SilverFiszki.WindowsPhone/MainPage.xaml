@@ -46,14 +46,24 @@
                 FontSize="30" 
                 HorizontalAlignment="Stretch"
                 VerticalAlignment="Stretch"
-                Click="LeftButton_Click"/>
+                BorderThickness="0"
+                Click="LeftButton_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/Assets/Flaga/angielski.png" />
+                </Button.Background>
+            </Button>
                 
             <Button 
                 Grid.Column="1" 
                 FontSize="30" 
+                BorderThickness="0"
                 HorizontalAlignment="Stretch"
                 VerticalAlignment="Stretch"
-                Click="RightButton_Click"/>
+                Click="RightButton_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/Assets/polski.png" />
+                </Button.Background>
+            </Button>
         </Grid>
      </Grid>
 </Page>

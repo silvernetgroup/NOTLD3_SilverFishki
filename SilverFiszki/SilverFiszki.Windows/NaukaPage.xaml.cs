@@ -46,11 +46,16 @@ namespace SilverFiszki
         private void LeftButton_Click(object sender, RoutedEventArgs e)
         {
             Counter.Znam++;
+            //ButtonZnam.Content = "Znam " + Counter.Znam;
+            ZnamCounter.Text = Counter.Znam.ToString();
+
             LoadNext();
         }
         private void RightButton_Click(object sender, RoutedEventArgs e)
         {
             Counter.Nieznam++;
+            //ButtonNieznam.Content = "Nie Znam - " + Counter.Nieznam;
+            NieZnamCounter.Text = Counter.Nieznam.ToString();
             
             if (Counter.Jezyk == "en")
             {
@@ -66,7 +71,7 @@ namespace SilverFiszki
 
         private void LoadNext()
         {
-            currentRow = db.getRanodmRow();
+            currentRow = db.getRanodmRow(Counter.PoziomNumer);
             MainImage.Source = currentRow.Image;
             Opis.Text = "";
         }

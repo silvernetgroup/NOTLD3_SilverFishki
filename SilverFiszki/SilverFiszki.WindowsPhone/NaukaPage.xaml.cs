@@ -22,29 +22,57 @@ namespace SilverFiszki
     /// </summary>
     public sealed partial class NaukaPage : Page
     {
+        private Random random = new Random();
+        DB db = new DB();
+        Row currentRow = null;
+
+        DispatcherTimer timer = new DispatcherTimer();
+
         public NaukaPage()
         {
             this.InitializeComponent();
+            timer.Interval = new TimeSpan(0, 0, 5);
+            timer.Tick += timer_Tick;
+            LoadNext();
         }
 
-        /// <summary>
-        /// Invoked when this page is about to be displayed in a Frame.
-        /// </summary>
-        /// <param name="e">Event data that describes how this page was reached.
-        /// This parameter is typically used to configure the page.</param>
-        protected override void OnNavigatedTo(NavigationEventArgs e)
+        private void timer_Tick(object sender, object e)
         {
+            timer.Stop();
+            LoadNext();
         }
 
         private void LeftButton_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(NaukaPage));
-            Counter.Jezyk = "en";
-        }
+            Counter.Znam++;
+            //ButtonZnam.Content = "Znam " + Counter.Znam;
+            ZnamCounter.Text = Counter.Znam.ToString();
 
+            LoadNext();
+        }
         private void RightButton_Click(object sender, RoutedEventArgs e)
         {
+            Counter.Nieznam++;
+            //ButtonNieznam.Content = "Nie Znam - " + Counter.Nieznam;
+            NieZnamCounter.Text = Counter.Nieznam.ToString();
 
+            if (Counter.Jezyk == "en")
+            {
+                Opis.Text = currentRow.Angielski + " - " + currentRow.ZdanieAngielski;
+            }
+            else
+            {
+                Opis.Text = currentRow.Polski + " - " + currentRow.ZdaniePolski;
+            }
+
+            timer.Start();
+        }
+
+        private void LoadNext()
+        {
+            currentRow = db.getRanodmRow(Counter.PoziomNumer);
+            MainImage.Source = currentRow.Image;
+            Opis.Text = "";
         }
     }
 }

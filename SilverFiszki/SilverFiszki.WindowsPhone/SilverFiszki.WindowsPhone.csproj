@@ -90,6 +90,9 @@
       <DependentUpon>NaukaPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StatsPage.xaml.cs">
+      <DependentUpon>StatsPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
@@ -187,8 +190,75 @@
     <Content Include="Assets\Assets\ZnamNieznam\NieZnamAct.png" />
     <Content Include="Assets\Assets\ZnamNieznam\Znam.png" />
     <Content Include="Assets\Assets\ZnamNieznam\ZnamAct.png" />
+    <Content Include="Assets\Data\1.png" />
+    <Content Include="Assets\Data\10.png" />
+    <Content Include="Assets\Data\11.png" />
+    <Content Include="Assets\Data\12.png" />
+    <Content Include="Assets\Data\13.png" />
+    <Content Include="Assets\Data\14.png" />
+    <Content Include="Assets\Data\15.png" />
+    <Content Include="Assets\Data\16.png" />
+    <Content Include="Assets\Data\17.png" />
+    <Content Include="Assets\Data\18.png" />
+    <Content Include="Assets\Data\19.png" />
+    <Content Include="Assets\Data\2.png" />
+    <Content Include="Assets\Data\20.png" />
+    <Content Include="Assets\Data\21.png" />
+    <Content Include="Assets\Data\22.png" />
+    <Content Include="Assets\Data\23.png" />
+    <Content Include="Assets\Data\24.png" />
+    <Content Include="Assets\Data\25.png" />
+    <Content Include="Assets\Data\26.png" />
+    <Content Include="Assets\Data\27.png" />
+    <Content Include="Assets\Data\28.png" />
+    <Content Include="Assets\Data\29.png" />
+    <Content Include="Assets\Data\3.png" />
+    <Content Include="Assets\Data\30.png" />
+    <Content Include="Assets\Data\4.png" />
+    <Content Include="Assets\Data\5.png" />
+    <Content Include="Assets\Data\6.png" />
+    <Content Include="Assets\Data\7.png" />
+    <Content Include="Assets\Data\8.png" />
+    <Content Include="Assets\Data\9.png" />
+    <Content Include="Assets\Flaga\angAct.png" />
+    <Content Include="Assets\Flaga\angielski.png" />
+    <Content Include="Assets\Flaga\polski.png" />
+    <Content Include="Assets\Flaga\Wroc.png" />
     <Content Include="Assets\IconNoTekst.png" />
     <Content Include="Assets\IconPNG.png" />
+    <Content Include="Assets\icon\Icon1000.png" />
+    <Content Include="Assets\icon\Icon1116.png" />
+    <Content Include="Assets\icon\Icon120.png" />
+    <Content Include="Assets\icon\Icon150.png" />
+    <Content Include="Assets\icon\Icon16.png" />
+    <Content Include="Assets\icon\Icon210.png" />
+    <Content Include="Assets\icon\Icon24.png" />
+    <Content Include="Assets\icon\Icon248.png" />
+    <Content Include="Assets\icon\Icon256.png" />
+    <Content Include="Assets\icon\Icon270.png" />
+    <Content Include="Assets\icon\Icon30.png" />
+    <Content Include="Assets\icon\Icon300.png" />
+    <Content Include="Assets\icon\Icon310.png" />
+    <Content Include="Assets\icon\Icon32.png" />
+    <Content Include="Assets\icon\Icon33.scale-100.png" />
+    <Content Include="Assets\icon\Icon33.scale-140.png" />
+    <Content Include="Assets\icon\Icon33.scale-180.png" />
+    <Content Include="Assets\icon\Icon42.png" />
+    <Content Include="Assets\icon\Icon43.png" />
+    <Content Include="Assets\icon\Icon434.scale-140.png" />
+    <Content Include="Assets\icon\Icon48.scale-100.png" />
+    <Content Include="Assets\icon\Icon48.scale-140.png" />
+    <Content Include="Assets\icon\Icon48.scale-180.png" />
+    <Content Include="Assets\icon\Icon50.png" />
+    <Content Include="Assets\icon\Icon54.png" />
+    <Content Include="Assets\icon\Icon558.scale-100.png" />
+    <Content Include="Assets\icon\Icon558.scale-140.png" />
+    <Content Include="Assets\icon\Icon558.scale-180.png" />
+    <Content Include="Assets\icon\Icon558.scale-80.png" />
+    <Content Include="Assets\icon\Icon620.png" />
+    <Content Include="Assets\icon\Icon70.scale-100.png" />
+    <Content Include="Assets\icon\Icon868.png" />
+    <Content Include="Assets\icon\Icon90.png" />
     <Content Include="Assets\Logo.scale-100.png" />
     <Content Include="Assets\Logo.scale-140.png" />
     <Content Include="Assets\Logo.scale-180.png" />
@@ -211,6 +281,10 @@
     <Content Include="Assets\StoreLogo.scale-240.png" />
     <Content Include="Assets\wallpaper.jpg" />
     <Content Include="Assets\WideLogo.scale-240.png" />
+    <Content Include="Assets\ZnamNieznam\NieZnam.png" />
+    <Content Include="Assets\ZnamNieznam\NieZnamAct.png" />
+    <Content Include="Assets\ZnamNieznam\Znam.png" />
+    <Content Include="Assets\ZnamNieznam\ZnamAct.png" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainPage.xaml">
@@ -218,6 +292,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="NaukaPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StatsPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
