@@ -14,4 +14,11 @@ namespace SilverFiszki
         public static string Poziom { get; set; }
         public static int PoziomNumer { get; set; }
     }
+
+    public enum Poziom
+    {
+        Łatwy = 1,
+        Średni = 2,
+        Trudny = 3,
+    }
 }

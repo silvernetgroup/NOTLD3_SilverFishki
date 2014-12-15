@@ -22,7 +22,6 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="BorderThickness" />
       <RootProperty Name="Background" />
-      <RootProperty Name="Tag" />
       <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Control">
@@ -126,8 +125,8 @@
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
       <RootProperty Name="Source" />
       <RootProperty Name="Name" />
-      <RootProperty Name="Margin" />
     </RootType>
+    <RootType FullName="SilverFiszki.DescriptionPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
@@ -145,7 +144,8 @@
       <RootProperty Name="Children" />
     </RootType>
     <RootType FullName="SilverFiszki.MainPage" />
-    <RootType FullName="SilverFiszki.NaukaPage" />
+    <RootType FullName="SilverFiszki.LearnPage" />
     <RootType FullName="SilverFiszki.StatsPage" />
+    <RootType FullName="SilverFiszki.RankPage" />
   </Roots.RootTypes>
 </Roots>

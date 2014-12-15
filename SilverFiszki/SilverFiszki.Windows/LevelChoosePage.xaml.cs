@@ -27,19 +27,34 @@ namespace SilverFiszki
             this.InitializeComponent();
         }
 
-        private void SelectPoziom(object sender, RoutedEventArgs e)
+        private void ButtonDificultEasy_Click(object sender, RoutedEventArgs e)
         {
-            Button button = sender as Button;
-            Counter.Poziom = (string)button.Content;
+            Counter.Poziom = Convert.ToString(Poziom.Łatwy);
+            Counter.PoziomNumer = Convert.ToInt32(Poziom.Łatwy);
 
-            switch (Counter.Poziom)
-            {
-                case "Łatwy": Counter.PoziomNumer = 1; break;
-                case    "Średni": Counter.PoziomNumer = 2; break;
-                case    "Trudny": Counter.PoziomNumer = 3; break;
-            }
-
-            this.Frame.Navigate(typeof(NaukaPage));
+            MoveToNextPage();
         }
+
+        private void ButtonDificultMedium_Click(object sender, RoutedEventArgs e)
+        {
+            Counter.Poziom = Convert.ToString(Poziom.Średni);
+            Counter.PoziomNumer = Convert.ToInt32(Poziom.Średni);
+
+            MoveToNextPage();
+        }
+
+        private void ButtonDificultHard_Click(object sender, RoutedEventArgs e)
+        {
+            Counter.Poziom = Convert.ToString(Poziom.Trudny);
+            Counter.PoziomNumer = Convert.ToInt32(Poziom.Trudny);
+
+            MoveToNextPage();
+        }        
+        
+        private void MoveToNextPage()
+        {
+            this.Frame.Navigate(typeof(LearnPage));
+        }
+
     }
 }

@@ -42,7 +42,6 @@ C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki
 C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.Windows\obj\Debug\StatsPage.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\App.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\MainPage.xbf
-C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\NaukaPage.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.xr.xml
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.exe
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.pdb
@@ -53,15 +52,11 @@ C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\D
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\App.g.cs
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\MainPage.g.i.cs
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\MainPage.g.cs
-C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\NaukaPage.g.i.cs
-C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\NaukaPage.g.cs
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\XamlTypeInfo.g.cs
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\App.xaml
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\MainPage.xaml
-C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\NaukaPage.xaml
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\App.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\MainPage.xbf
-C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\NaukaPage.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\XamlSaveStateFile.xml
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\SilverFiszki.Windows.exe
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\SilverFiszki.Windows.pdb
@@ -87,3 +82,18 @@ C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\D
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\LevelChoosePage.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\LanguageChoosePage.xaml
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\LanguageChoosePage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\RankPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\RankPage.g.i.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\RankPage.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\RankPage.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\RankPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\LearnPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\LearnPage.g.i.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\LearnPage.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\LearnPage.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\LearnPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\DescriptionPage.g.i.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\DescriptionPage.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\DescriptionPage.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\DescriptionPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\DescriptionPage.xbf

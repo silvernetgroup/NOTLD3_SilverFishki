@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid>
+    <!--<Grid>
         <Grid.Background>
             <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper.jpg"/>
         </Grid.Background>
@@ -28,6 +28,33 @@
             <Button  Content="Łatwy" Tag="1" Width="300" Height="70" Margin="5" FontSize="30" Click="SelectPoziom"/>
             <Button Content="Średni" Tag="2" Width="300" Height="70" Margin="5" FontSize="30" Click="SelectPoziom"/>
             <Button Content="Trudny" Tag="3" Width="300" Height="70" Margin="5" FontSize="30" Click="SelectPoziom"/>
+        </StackPanel>
+    </Grid>-->
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="5*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="35*" />
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="15*" />
+        </Grid.RowDefinitions>
+
+        <!-- Logo SiFishki -->
+        <Image Grid.Row="1" Grid.Column="1" Source="Assets/IconPNG.png" />
+
+        <!-- Menu -->
+        <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >
+            <Button Content="Łatwy" Width="400" Height="100" Margin="10" Click="ButtonDificultEasy_Click" Style="{StaticResource ButtonBeginLearn}"/>
+            <Button Content="Średni" Width="400" Height="100" Margin="10" Click="ButtonDificultMedium_Click" Style="{StaticResource ButtonRank}"/>
+            <Button Content="Trudny" Width="400" Height="100" Margin="10" Click="ButtonDificultHard_Click" Style="{StaticResource ButtonDescription}"/>
         </StackPanel>
     </Grid>
 </Page>

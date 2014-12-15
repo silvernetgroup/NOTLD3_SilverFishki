@@ -31,5 +31,15 @@ namespace SilverFiszki
         {
             this.Frame.Navigate(typeof(LanguageChoosePage));
         }
+
+        private void ButtonRank_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(RankPage));
+        }
+
+        private void ButtonDescription_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(DescriptionPage));
+        }
     }
 }

@@ -320,17 +320,23 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\DescriptionPage.xbf">
+      <PackagePath>DescriptionPage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\LanguageChoosePage.xbf">
       <PackagePath>LanguageChoosePage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\NaukaPage.xbf">
-      <PackagePath>NaukaPage.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\LearnPage.xbf">
+      <PackagePath>LearnPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\LevelChoosePage.xbf">
       <PackagePath>LevelChoosePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\RankPage.xbf">
+      <PackagePath>RankPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.xr.xml">
       <PackagePath>SilverFiszki.Windows.xr.xml</PackagePath>
