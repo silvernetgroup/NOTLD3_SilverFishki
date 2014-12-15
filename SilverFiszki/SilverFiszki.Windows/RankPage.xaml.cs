@@ -20,16 +20,11 @@ namespace SilverFiszki
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class MainPage : Page
+    public sealed partial class RankPage : Page
     {
-        public MainPage()
+        public RankPage()
         {
             this.InitializeComponent();
-        }
-
-        private void ButtonBeginLearn_Click(object sender, RoutedEventArgs e)
-        {
-            this.Frame.Navigate(typeof(LanguageChoosePage));
         }
     }
 }

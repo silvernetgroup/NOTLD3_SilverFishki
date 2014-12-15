@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="SilverFiszki.MainPage"
+    x:Class="SilverFiszki.RankPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:SilverFiszki"
@@ -27,11 +27,10 @@
         <Image Grid.Row="1" Grid.Column="1" Source="Assets/IconPNG.png" />
 
         <!-- Menu -->
-        <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >
-            <Button Content="Rozpocznij Naukę" Width="400" Height="100" Margin="10" Style="{StaticResource ButtonBeginLearn}"/>
+        <!--<StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >
+            <Button Content="Rozpocznij Naukę" Width="400" Height="100" Margin="10" Click="ButtonBeginLearn_Click" Style="{StaticResource ButtonBeginLearn}"/>
             <Button Content="Wyniki" Width="400" Height="90" Margin="10" Style="{StaticResource ButtonRank}"/>
             <Button Content="O aplikacji" Width="400" Height="90" Margin="10" Style="{StaticResource ButtonDescription}"/>
-        </StackPanel>
+        </StackPanel>-->
     </Grid>
 </Page>
-

@@ -19,32 +19,18 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="5*" />
             <RowDefinition Height="35*" />
-            <RowDefinition Height="60*"/>
-            <RowDefinition Height="5*" />
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="15*" />
         </Grid.RowDefinitions>
 
         <!-- Logo SiFishki -->
         <Image Grid.Row="1" Grid.Column="1" Source="Assets/IconPNG.png" />
 
-           
+        <!-- Menu -->
         <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >
-            <Button Content="Rozpocznij Naukę" Foreground="Black" Width="400" Height="90" FontSize="30" Margin="10" BorderThickness="0">
-                <Button.Background>
-                    <ImageBrush ImageSource="Assets/New/ButtonNormal.png" />
-                </Button.Background>
-            </Button>
-            <Button Content="Wyniki" Foreground="Black" Width="400" Height="90" FontSize="30" Margin="10" BorderThickness="0">
-                <Button.Background>
-                    <ImageBrush ImageSource="Assets/New/ButtonNormal.png" />
-                </Button.Background>
-            </Button>
-            <Button Content="O aplikacji" Foreground="Black" Width="400" Height="90" FontSize="30" Margin="10" BorderThickness="0">
-                <Button.Background>
-                    <ImageBrush ImageSource="Assets/New/ButtonNormal.png" />
-                </Button.Background>
-            </Button>
+            <Button Content="Rozpocznij Naukę" Width="400" Height="100" Margin="10" Click="ButtonBeginLearn_Click" Style="{StaticResource ButtonBeginLearn}"/>
+            <Button Content="Wyniki" Width="400" Height="90" Margin="10" Style="{StaticResource ButtonRank}"/>
+            <Button Content="O aplikacji" Width="400" Height="90" Margin="10" Style="{StaticResource ButtonDescription}"/>
         </StackPanel>
-        
-
     </Grid>
 </Page>

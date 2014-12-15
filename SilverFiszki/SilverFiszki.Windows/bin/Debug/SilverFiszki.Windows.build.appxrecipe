@@ -118,6 +118,9 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonNormal.png">
       <PackagePath>Assets\New\ButtonNormal.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonPointOver.png">
+      <PackagePath>Assets\New\ButtonPointOver.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\EanglishFlag.png">
       <PackagePath>Assets\New\EanglishFlag.png</PackagePath>
     </AppxPackagedFile>

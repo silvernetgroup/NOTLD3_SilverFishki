@@ -13,16 +13,15 @@
       <RootProperty Name="Margin" />
       <RootProperty Name="Style" />
       <RootProperty Name="Content" />
-      <RootProperty Name="Foreground" />
       <RootProperty Name="Width" />
       <RootProperty Name="Height" />
-      <RootProperty Name="FontSize" />
-      <RootProperty Name="BorderThickness" />
-      <RootProperty Name="Background" />
       <RootProperty Name="Name" />
       <RootProperty Name="Padding" />
+      <RootProperty Name="FontSize" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Background" />
       <RootProperty Name="Tag" />
       <RootEvent Name="Click" />
     </RootType>
