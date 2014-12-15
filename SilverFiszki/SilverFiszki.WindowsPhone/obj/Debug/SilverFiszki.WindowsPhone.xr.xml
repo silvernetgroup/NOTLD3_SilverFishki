@@ -24,6 +24,7 @@
       <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="Background" />
       <RootProperty Name="Foreground" />
       <RootProperty Name="BorderBrush" />
       <RootProperty Name="BorderThickness" />

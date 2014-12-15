@@ -106,6 +106,9 @@
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LanguageChoosePage.xaml.cs">
+      <DependentUpon>LanguageChoosePage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -113,8 +116,8 @@
       <DependentUpon>NaukaPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StatsPage.xaml.cs">
-      <DependentUpon>StatsPage.xaml</DependentUpon>
+    <Compile Include="LevelChoosePage.xaml.cs">
+      <DependentUpon>LevelChoosePage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -156,6 +159,9 @@
     <Content Include="Assets\Data\9.png" />
     <Content Include="Assets\Flaga\angAct.png" />
     <Content Include="Assets\Flaga\angielski.png" />
+    <Content Include="Assets\New\ButtonNormal.png" />
+    <Content Include="Assets\New\EanglishFlag.png" />
+    <Content Include="Assets\New\PolishFlag.jpg" />
     <Content Include="Assets\ZnamNieznam\NieZnam.png" />
     <Content Include="Assets\ZnamNieznam\NieZnamAct.png" />
     <Content Include="Assets\Flaga\polski.png" />
@@ -215,15 +221,19 @@
     <Content Include="Assets\wallpaper.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="MainPage.xaml">
+    <Page Include="LanguageChoosePage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="NaukaPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="StatsPage.xaml">
+    <Page Include="LevelChoosePage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

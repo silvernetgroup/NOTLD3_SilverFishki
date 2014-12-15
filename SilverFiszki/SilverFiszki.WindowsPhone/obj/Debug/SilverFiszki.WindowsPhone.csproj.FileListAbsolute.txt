@@ -40,3 +40,45 @@ C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki
 C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.xaml
 C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.xbf
 C:\Users\Mateusz\Documents\Visual Studio 2013\Projects\SilverFiszki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\StatsPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\NaukaPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\StatsPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.xr.xml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.exe
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.pdb
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.build.appxrecipe
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\NaukaPage.g.i.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\NaukaPage.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\NaukaPage.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\NaukaPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\SilverFiszki.WindowsPhone.exe
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\SilverFiszki.WindowsPhone.pdb
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\ProjectArchitectures.txt

@@ -31,13 +31,13 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Button x:ConnectionId='1' Name="ButtonZnam" Grid.Column="0" Padding="0,0,90,0"  FontSize="40" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
-                                             BorderThickness="0" Content="Znam" Style="{StaticResource ButtonZnam}">
+                                             BorderThickness="0" Content="znam" Style="{StaticResource ButtonZnam}">
                 <Button.Background>
                     <ImageBrush Stretch="Fill" ImageSource="Assets/ZnamNieznam/Znam.png"/>
                 </Button.Background>
             </Button>
             <TextBlock Name="ZnamCounter" Text="0" FontSize="40" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="0,100,100,0"/>
-            <Button x:ConnectionId='2' Name="ButtonNieznam" Content="Nie Znam" Padding="0,0,-90,0" Grid.Column="1" FontSize="40" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+            <Button x:ConnectionId='2' Name="ButtonNieznam" Content="nie znam" Padding="0,0,-90,0" Grid.Column="1" FontSize="40" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
                                               BorderThickness="0" Style="{StaticResource ButtonNieZnam}">
                 <Button.Background>
                     <ImageBrush Stretch="Fill" ImageSource="Assets/ZnamNieznam/NieZnam.png"/>
