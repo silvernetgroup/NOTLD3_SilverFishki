@@ -165,9 +165,14 @@
     <Content Include="Assets\Data\9.png" />
     <Content Include="Assets\Flaga\angAct.png" />
     <Content Include="Assets\Flaga\angielski.png" />
+    <Content Include="Assets\New\ButtonBlue.png" />
+    <Content Include="Assets\New\ButtonBlueClick.png" />
+    <Content Include="Assets\New\ButtonBluePointOver.png" />
     <Content Include="Assets\New\ButtonNormal.png" />
     <Content Include="Assets\New\ButtonPointOver.png" />
-    <Content Include="Assets\New\EanglishFlag.png" />
+    <Content Include="Assets\New\ButtonRed.png" />
+    <Content Include="Assets\New\ButtonRedPointOver.png" />
+    <Content Include="Assets\New\EnglishFlag.png" />
     <Content Include="Assets\New\PolishFlag.jpg" />
     <Content Include="Assets\ZnamNieznam\NieZnam.png" />
     <Content Include="Assets\ZnamNieznam\NieZnamAct.png" />

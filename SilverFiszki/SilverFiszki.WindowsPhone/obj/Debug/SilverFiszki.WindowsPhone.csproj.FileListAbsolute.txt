@@ -59,15 +59,15 @@ C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.g.i.cs
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.g.cs
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\App.xaml
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\MainPage.xaml
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\NaukaPage.xaml
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\App.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\MainPage.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\NaukaPage.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\StatsPage.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
-C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\App.xaml
-C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\App.xbf
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\SilverFiszki.WindowsPhone.exe
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\SilverFiszki.WindowsPhone.pdb
 C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.WindowsPhone\obj\Debug\priconfig.xml

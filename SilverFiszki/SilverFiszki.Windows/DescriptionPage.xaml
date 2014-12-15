@@ -13,7 +13,7 @@
         </Grid.Background>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="5*" />
-            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="90*"/>
             <ColumnDefinition Width="5*" />
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
@@ -26,11 +26,12 @@
         <!-- Logo SiFishki -->
         <Image Grid.Row="1" Grid.Column="1" Source="Assets/IconPNG.png" />
 
-        <!-- Menu -->
-        <!--<StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >
-            <Button Content="Rozpocznij Naukę" Width="400" Height="100" Margin="10" Click="ButtonBeginLearn_Click" Style="{StaticResource ButtonBeginLearn}"/>
-            <Button Content="Ranking" Width="400" Height="90" Margin="10" Click="ButtonRank_Click" Style="{StaticResource ButtonRank}"/>
-            <Button Content="O aplikacji" Width="400" Height="90" Margin="10" Click="ButtonDescription_Click" Style="{StaticResource ButtonDescription}"/>
-        </StackPanel>-->
+        <!-- Description -->
+        <ScrollViewer Grid.Row="2" Grid.Column="1">
+            <TextBlock  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" TextAlignment="Center"
+                   FontSize="30">
+            Opis
+            </TextBlock>
+        </ScrollViewer>
     </Grid>
 </Page>

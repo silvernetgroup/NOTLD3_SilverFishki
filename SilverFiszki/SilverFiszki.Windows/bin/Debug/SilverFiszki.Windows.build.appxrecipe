@@ -115,14 +115,29 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\angielski.png">
       <PackagePath>Assets\Flaga\angielski.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBlue.png">
+      <PackagePath>Assets\New\ButtonBlue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBlueClick.png">
+      <PackagePath>Assets\New\ButtonBlueClick.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBluePointOver.png">
+      <PackagePath>Assets\New\ButtonBluePointOver.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonNormal.png">
       <PackagePath>Assets\New\ButtonNormal.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonPointOver.png">
       <PackagePath>Assets\New\ButtonPointOver.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\EanglishFlag.png">
-      <PackagePath>Assets\New\EanglishFlag.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonRed.png">
+      <PackagePath>Assets\New\ButtonRed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonRedPointOver.png">
+      <PackagePath>Assets\New\ButtonRedPointOver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\EnglishFlag.png">
+      <PackagePath>Assets\New\EnglishFlag.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\NieZnam.png">
       <PackagePath>Assets\ZnamNieznam\NieZnam.png</PackagePath>
