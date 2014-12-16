@@ -152,7 +152,16 @@ namespace SilverFiszki
                 Opis.Text = currentRow.Polski + " - " + currentRow.ZdaniePolski;
             }
 
+            BlokujPrzyciski();
+
             timer.Start();
         }
+
+        private void BlokujPrzyciski()
+        {
+            ButtonZnam.IsEnabled = false;
+            ButtonNieznam.IsEnabled = false;
+        }
+
     }
 }

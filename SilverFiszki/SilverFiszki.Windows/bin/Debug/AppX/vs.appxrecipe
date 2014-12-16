@@ -26,7 +26,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.exe">
       <PackagePath>SilverFiszki.Windows.exe</PackagePath>
-      <Modified>2014-12-16T18:37:11.733</Modified>
+      <Modified>2014-12-16T18:48:59.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\1.png">
       <PackagePath>Assets\Data\1.png</PackagePath>
