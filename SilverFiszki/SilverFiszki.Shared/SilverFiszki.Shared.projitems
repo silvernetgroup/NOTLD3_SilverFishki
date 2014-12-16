@@ -17,6 +17,5 @@
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Counter.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DB.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Main.cs" />
   </ItemGroup>
 </Project>

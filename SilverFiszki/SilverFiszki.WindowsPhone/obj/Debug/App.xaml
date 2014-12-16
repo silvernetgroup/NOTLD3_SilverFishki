@@ -281,12 +281,17 @@
             </Setter>
         </Style>
         <Style x:Key="ButtonNieZnam" TargetType="Button">
+            <Setter Property="Background">
+                <Setter.Value>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/New/ButtonRed.png"/>
+                </Setter.Value>
+            </Setter>
             <Setter Property="Foreground" Value="{ThemeResource ButtonForegroundThemeBrush}"/>
             <Setter Property="BorderBrush" Value="{ThemeResource ButtonBorderThemeBrush}"/>
-            <Setter Property="BorderThickness" Value="{ThemeResource ButtonBorderThemeThickness}"/>
+            <Setter Property="BorderThickness" Value="0"/>
             <Setter Property="Padding" Value="12,4,12,4"/>
-            <Setter Property="HorizontalAlignment" Value="Left"/>
-            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="VerticalAlignment" Value="Stretch"/>
             <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
             <Setter Property="FontWeight" Value="SemiBold"/>
             <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}"/>
@@ -302,16 +307,12 @@
                                             <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Background" Storyboard.TargetName="Border">
                                                 <DiscreteObjectKeyFrame KeyTime="0">
                                                     <DiscreteObjectKeyFrame.Value>
-                                                        <ImageBrush ImageSource="Assets/ZnamNieznam/NieZnam.png" Opacity="0.7"/>
+                                                        <ImageBrush ImageSource="Assets/New/ButtonRedPointOver.png" Opacity="1"/>
                                                     </DiscreteObjectKeyFrame.Value>
                                                 </DiscreteObjectKeyFrame>
                                             </ObjectAnimationUsingKeyFrames>
                                             <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
-                                                <DiscreteObjectKeyFrame KeyTime="0">
-                                                    <DiscreteObjectKeyFrame.Value>
-                                                        <ImageBrush ImageSource="Assets/ZnamNieznam/NieZnam.png" Opacity="0.7"/>
-                                                    </DiscreteObjectKeyFrame.Value>
-                                                </DiscreteObjectKeyFrame>
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource ButtonPressedForegroundThemeBrush}"/>
                                             </ObjectAnimationUsingKeyFrames>
                                         </Storyboard>
                                     </VisualState>
@@ -320,16 +321,12 @@
                                             <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Background" Storyboard.TargetName="Border">
                                                 <DiscreteObjectKeyFrame KeyTime="0">
                                                     <DiscreteObjectKeyFrame.Value>
-                                                        <ImageBrush ImageSource="Assets/ZnamNieznam/NieZnam.png" Opacity="0.3"/>
+                                                        <ImageBrush ImageSource="Assets/New/ButtonRedPointOver.png" Opacity="0.7"/>
                                                     </DiscreteObjectKeyFrame.Value>
                                                 </DiscreteObjectKeyFrame>
                                             </ObjectAnimationUsingKeyFrames>
                                             <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
-                                                <DiscreteObjectKeyFrame KeyTime="0" >
-                                                    <DiscreteObjectKeyFrame.Value>
-                                                        <ImageBrush ImageSource="Assets/ZnamNieznam/NieZnam.png" Opacity="0.3"/>
-                                                    </DiscreteObjectKeyFrame.Value>
-                                                </DiscreteObjectKeyFrame>
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource ButtonPressedForegroundThemeBrush}"/>
                                             </ObjectAnimationUsingKeyFrames>
                                         </Storyboard>
                                     </VisualState>

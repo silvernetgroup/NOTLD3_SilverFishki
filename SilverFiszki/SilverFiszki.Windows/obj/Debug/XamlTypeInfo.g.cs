@@ -124,25 +124,35 @@ namespace SilverFiszki.SilverFiszki_Windows_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[8];
-            _typeNameTable[0] = "SilverFiszki.DescriptionPage";
+            _typeNameTable = new string[13];
+            _typeNameTable[0] = "SilverFiszki.LanguageChoosePage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "SilverFiszki.LanguageChoosePage";
-            _typeNameTable[4] = "SilverFiszki.MainPage";
-            _typeNameTable[5] = "SilverFiszki.LearnPage";
-            _typeNameTable[6] = "SilverFiszki.StatsPage";
-            _typeNameTable[7] = "SilverFiszki.RankPage";
+            _typeNameTable[3] = "SilverFiszki.Common.ObservableDictionary";
+            _typeNameTable[4] = "Object";
+            _typeNameTable[5] = "String";
+            _typeNameTable[6] = "SilverFiszki.Common.NavigationHelper";
+            _typeNameTable[7] = "Windows.UI.Xaml.DependencyObject";
+            _typeNameTable[8] = "SilverFiszki.LearnPage";
+            _typeNameTable[9] = "SilverFiszki.LevelChoosePage";
+            _typeNameTable[10] = "SilverFiszki.DescriptionPage";
+            _typeNameTable[11] = "SilverFiszki.MainPage";
+            _typeNameTable[12] = "SilverFiszki.RankPage";
 
-            _typeTable = new global::System.Type[8];
-            _typeTable[0] = typeof(global::SilverFiszki.DescriptionPage);
+            _typeTable = new global::System.Type[13];
+            _typeTable[0] = typeof(global::SilverFiszki.LanguageChoosePage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::SilverFiszki.LanguageChoosePage);
-            _typeTable[4] = typeof(global::SilverFiszki.MainPage);
-            _typeTable[5] = typeof(global::SilverFiszki.LearnPage);
-            _typeTable[6] = typeof(global::SilverFiszki.StatsPage);
-            _typeTable[7] = typeof(global::SilverFiszki.RankPage);
+            _typeTable[3] = typeof(global::SilverFiszki.Common.ObservableDictionary);
+            _typeTable[4] = typeof(global::System.Object);
+            _typeTable[5] = typeof(global::System.String);
+            _typeTable[6] = typeof(global::SilverFiszki.Common.NavigationHelper);
+            _typeTable[7] = typeof(global::Windows.UI.Xaml.DependencyObject);
+            _typeTable[8] = typeof(global::SilverFiszki.LearnPage);
+            _typeTable[9] = typeof(global::SilverFiszki.LevelChoosePage);
+            _typeTable[10] = typeof(global::SilverFiszki.DescriptionPage);
+            _typeTable[11] = typeof(global::SilverFiszki.MainPage);
+            _typeTable[12] = typeof(global::SilverFiszki.RankPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -177,12 +187,20 @@ namespace SilverFiszki.SilverFiszki_Windows_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_DescriptionPage() { return new global::SilverFiszki.DescriptionPage(); }
-        private object Activate_3_LanguageChoosePage() { return new global::SilverFiszki.LanguageChoosePage(); }
-        private object Activate_4_MainPage() { return new global::SilverFiszki.MainPage(); }
-        private object Activate_5_LearnPage() { return new global::SilverFiszki.LearnPage(); }
-        private object Activate_6_StatsPage() { return new global::SilverFiszki.StatsPage(); }
-        private object Activate_7_RankPage() { return new global::SilverFiszki.RankPage(); }
+        private object Activate_0_LanguageChoosePage() { return new global::SilverFiszki.LanguageChoosePage(); }
+        private object Activate_3_ObservableDictionary() { return new global::SilverFiszki.Common.ObservableDictionary(); }
+        private object Activate_8_LearnPage() { return new global::SilverFiszki.LearnPage(); }
+        private object Activate_9_LevelChoosePage() { return new global::SilverFiszki.LevelChoosePage(); }
+        private object Activate_10_DescriptionPage() { return new global::SilverFiszki.DescriptionPage(); }
+        private object Activate_11_MainPage() { return new global::SilverFiszki.MainPage(); }
+        private object Activate_12_RankPage() { return new global::SilverFiszki.RankPage(); }
+        private void MapAdd_3_ObservableDictionary(object instance, object key, object item)
+        {
+            var collection = (global::System.Collections.Generic.IDictionary<global::System.String, global::System.Object>)instance;
+            var newKey = (global::System.String)key;
+            var newItem = (global::System.Object)item;
+            collection.Add(newKey, newItem);
+        }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -194,9 +212,11 @@ namespace SilverFiszki.SilverFiszki_Windows_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  SilverFiszki.DescriptionPage
+            case 0:   //  SilverFiszki.LanguageChoosePage
                 userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_DescriptionPage;
+                userType.Activator = Activate_0_LanguageChoosePage;
+                userType.AddMemberName("DefaultViewModel");
+                userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -209,37 +229,68 @@ namespace SilverFiszki.SilverFiszki_Windows_XamlTypeInfo
                 xamlType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  SilverFiszki.LanguageChoosePage
-                userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_LanguageChoosePage;
+            case 3:   //  SilverFiszki.Common.ObservableDictionary
+                userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.DictionaryAdd = MapAdd_3_ObservableDictionary;
+                userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 4:   //  SilverFiszki.MainPage
-                userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_4_MainPage;
+            case 4:   //  Object
+                xamlType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 5:   //  String
+                xamlType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 6:   //  SilverFiszki.Common.NavigationHelper
+                userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.DependencyObject"));
+                userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 5:   //  SilverFiszki.LearnPage
+            case 7:   //  Windows.UI.Xaml.DependencyObject
+                xamlType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 8:   //  SilverFiszki.LearnPage
                 userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_5_LearnPage;
+                userType.Activator = Activate_8_LearnPage;
+                userType.AddMemberName("DefaultViewModel");
+                userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 6:   //  SilverFiszki.StatsPage
+            case 9:   //  SilverFiszki.LevelChoosePage
                 userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_6_StatsPage;
+                userType.Activator = Activate_9_LevelChoosePage;
+                userType.AddMemberName("DefaultViewModel");
+                userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 7:   //  SilverFiszki.RankPage
+            case 10:   //  SilverFiszki.DescriptionPage
                 userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_7_RankPage;
+                userType.Activator = Activate_10_DescriptionPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 11:   //  SilverFiszki.MainPage
+                userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_11_MainPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 12:   //  SilverFiszki.RankPage
+                userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_12_RankPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -248,11 +299,81 @@ namespace SilverFiszki.SilverFiszki_Windows_XamlTypeInfo
         }
 
 
+        private object get_0_LanguageChoosePage_DefaultViewModel(object instance)
+        {
+            var that = (global::SilverFiszki.LanguageChoosePage)instance;
+            return that.DefaultViewModel;
+        }
+        private object get_1_LanguageChoosePage_NavigationHelper(object instance)
+        {
+            var that = (global::SilverFiszki.LanguageChoosePage)instance;
+            return that.NavigationHelper;
+        }
+        private object get_2_LearnPage_DefaultViewModel(object instance)
+        {
+            var that = (global::SilverFiszki.LearnPage)instance;
+            return that.DefaultViewModel;
+        }
+        private object get_3_LearnPage_NavigationHelper(object instance)
+        {
+            var that = (global::SilverFiszki.LearnPage)instance;
+            return that.NavigationHelper;
+        }
+        private object get_4_LevelChoosePage_DefaultViewModel(object instance)
+        {
+            var that = (global::SilverFiszki.LevelChoosePage)instance;
+            return that.DefaultViewModel;
+        }
+        private object get_5_LevelChoosePage_NavigationHelper(object instance)
+        {
+            var that = (global::SilverFiszki.LevelChoosePage)instance;
+            return that.NavigationHelper;
+        }
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
         {
             global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember xamlMember = null;
-            // No Local Properties
+            global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType userType;
+
+            switch (longMemberName)
+            {
+            case "SilverFiszki.LanguageChoosePage.DefaultViewModel":
+                userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.LanguageChoosePage");
+                xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "SilverFiszki.Common.ObservableDictionary");
+                xamlMember.Getter = get_0_LanguageChoosePage_DefaultViewModel;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "SilverFiszki.LanguageChoosePage.NavigationHelper":
+                userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.LanguageChoosePage");
+                xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "SilverFiszki.Common.NavigationHelper");
+                xamlMember.Getter = get_1_LanguageChoosePage_NavigationHelper;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "SilverFiszki.LearnPage.DefaultViewModel":
+                userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.LearnPage");
+                xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "SilverFiszki.Common.ObservableDictionary");
+                xamlMember.Getter = get_2_LearnPage_DefaultViewModel;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "SilverFiszki.LearnPage.NavigationHelper":
+                userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.LearnPage");
+                xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "SilverFiszki.Common.NavigationHelper");
+                xamlMember.Getter = get_3_LearnPage_NavigationHelper;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "SilverFiszki.LevelChoosePage.DefaultViewModel":
+                userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.LevelChoosePage");
+                xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "SilverFiszki.Common.ObservableDictionary");
+                xamlMember.Getter = get_4_LevelChoosePage_DefaultViewModel;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "SilverFiszki.LevelChoosePage.NavigationHelper":
+                userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.LevelChoosePage");
+                xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "SilverFiszki.Common.NavigationHelper");
+                xamlMember.Getter = get_5_LevelChoosePage_NavigationHelper;
+                xamlMember.SetIsReadOnly();
+                break;
+            }
             return xamlMember;
         }
     }
