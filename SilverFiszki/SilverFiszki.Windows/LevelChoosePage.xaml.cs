@@ -105,24 +105,24 @@ namespace SilverFiszki
 
         private void ButtonDificultEasy_Click(object sender, RoutedEventArgs e)
         {
-            Counter.Poziom = Convert.ToString(Poziom.Łatwy);
-            Counter.PoziomNumer = Convert.ToInt32(Poziom.Łatwy);
+            Data.Poziom = Convert.ToString(Poziom.Łatwy);
+            Data.PoziomNumer = Convert.ToInt32(Poziom.Łatwy);
 
             MoveToNextPage();
         }
 
         private void ButtonDificultMedium_Click(object sender, RoutedEventArgs e)
         {
-            Counter.Poziom = Convert.ToString(Poziom.Średni);
-            Counter.PoziomNumer = Convert.ToInt32(Poziom.Średni);
+            Data.Poziom = Convert.ToString(Poziom.Średni);
+            Data.PoziomNumer = Convert.ToInt32(Poziom.Średni);
 
             MoveToNextPage();
         }
 
         private void ButtonDificultHard_Click(object sender, RoutedEventArgs e)
         {
-            Counter.Poziom = Convert.ToString(Poziom.Trudny);
-            Counter.PoziomNumer = Convert.ToInt32(Poziom.Trudny);
+            Data.Poziom = Convert.ToString(Poziom.Trudny);
+            Data.PoziomNumer = Convert.ToInt32(Poziom.Trudny);
 
             MoveToNextPage();
         }

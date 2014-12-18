@@ -106,13 +106,13 @@ namespace SilverFiszki
         private void LeftButton_Click(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(LevelChoosePage));
-            Counter.Jezyk = "en";
+            Data.Jezyk = "en";
         }
 
         private void RightButton_Click(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(LevelChoosePage));
-            Counter.Jezyk = "pl";
+            Data.Jezyk = "pl";
         }
     }
 }

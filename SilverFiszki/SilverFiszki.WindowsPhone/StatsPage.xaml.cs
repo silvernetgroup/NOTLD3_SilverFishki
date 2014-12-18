@@ -39,13 +39,13 @@ namespace SilverFiszki
         private void SelectPoziom(object sender, RoutedEventArgs e)
         {
             Button button = sender as Button;
-            Counter.Poziom = (string)button.Content;
+            Data.Poziom = (string)button.Content;
 
-            switch (Counter.Poziom)
+            switch (Data.Poziom)
             {
-                case "Łatwy": Counter.PoziomNumer = 1; break;
-                case "Średni": Counter.PoziomNumer = 2; break;
-                case "Trudny": Counter.PoziomNumer = 3; break;
+                case "Łatwy": Data.PoziomNumer = 1; break;
+                case "Średni": Data.PoziomNumer = 2; break;
+                case "Trudny": Data.PoziomNumer = 3; break;
             }
 
             this.Frame.Navigate(typeof(NaukaPage));

@@ -23,7 +23,7 @@ namespace SilverFiszki
     public sealed partial class NaukaPage : Page
     {
         private Random random = new Random();
-        DB db = new DB();
+        PolishEanglishDictionary db = new PolishEanglishDictionary();
         Row currentRow = null;
 
         DispatcherTimer timer = new DispatcherTimer();
@@ -44,19 +44,19 @@ namespace SilverFiszki
 
         private void LeftButton_Click(object sender, RoutedEventArgs e)
         {
-            Counter.Znam++;
+            Data.Znam++;
             //ButtonZnam.Content = "Znam " + Counter.Znam;
-            ZnamCounter.Text = Counter.Znam.ToString();
+            ZnamCounter.Text = Data.Znam.ToString();
 
             LoadNext();
         }
         private void RightButton_Click(object sender, RoutedEventArgs e)
         {
-            Counter.Nieznam++;
+            Data.Nieznam++;
             //ButtonNieznam.Content = "Nie Znam - " + Counter.Nieznam;
-            NieZnamCounter.Text = Counter.Nieznam.ToString();
+            NieZnamCounter.Text = Data.Nieznam.ToString();
 
-            if (Counter.Jezyk == "en")
+            if (Data.Jezyk == "en")
             {
                 Opis.Text = currentRow.Angielski + " - " + currentRow.ZdanieAngielski;
             }
@@ -70,7 +70,7 @@ namespace SilverFiszki
 
         private void LoadNext()
         {
-            currentRow = db.getRanodmRow(Counter.PoziomNumer);
+            currentRow = db.getRanodmRow(Data.PoziomNumer);
             MainImage.Source = currentRow.Image;
             Opis.Text = "";
         }
