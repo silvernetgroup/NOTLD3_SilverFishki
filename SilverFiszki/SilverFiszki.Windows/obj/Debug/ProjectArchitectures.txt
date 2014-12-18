@@ -1,1 +1,1 @@
-C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\SilverFiszki.Windows.csproj;neutral
+C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\SilverFiszki.Windows.csproj;neutral

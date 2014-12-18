@@ -7,6 +7,7 @@ using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.Storage;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -53,6 +54,9 @@ namespace SilverFiszki
                 this.DebugSettings.EnableFrameRateCounter = true;
             }
 #endif
+
+            //Ranking
+            Data.AppSettings = ApplicationData.Current.LocalSettings;
 
             Frame rootFrame = Window.Current.Content as Frame;
 

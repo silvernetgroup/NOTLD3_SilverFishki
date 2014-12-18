@@ -1,362 +1,362 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>SILVERNET01</Machine>
-    <WindowsUser>silve_000</WindowsUser>
+    <Machine>FABIANO</Machine>
+    <WindowsUser>Fabian</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>cf3a6238-05f3-4c81-8946-6bf8ee498df4</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.exe">
       <PackagePath>SilverFiszki.Windows.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\1.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\1.png">
       <PackagePath>Assets\Data\1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\10.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\10.png">
       <PackagePath>Assets\Data\10.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\11.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\11.png">
       <PackagePath>Assets\Data\11.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\12.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\12.png">
       <PackagePath>Assets\Data\12.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\13.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\13.png">
       <PackagePath>Assets\Data\13.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\14.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\14.png">
       <PackagePath>Assets\Data\14.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\15.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\15.png">
       <PackagePath>Assets\Data\15.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\16.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\16.png">
       <PackagePath>Assets\Data\16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\17.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\17.png">
       <PackagePath>Assets\Data\17.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\18.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\18.png">
       <PackagePath>Assets\Data\18.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\19.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\19.png">
       <PackagePath>Assets\Data\19.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\2.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\2.png">
       <PackagePath>Assets\Data\2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\20.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\20.png">
       <PackagePath>Assets\Data\20.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\21.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\21.png">
       <PackagePath>Assets\Data\21.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\22.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\22.png">
       <PackagePath>Assets\Data\22.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\23.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\23.png">
       <PackagePath>Assets\Data\23.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\24.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\24.png">
       <PackagePath>Assets\Data\24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\25.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\25.png">
       <PackagePath>Assets\Data\25.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\26.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\26.png">
       <PackagePath>Assets\Data\26.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\27.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\27.png">
       <PackagePath>Assets\Data\27.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\28.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\28.png">
       <PackagePath>Assets\Data\28.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\29.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\29.png">
       <PackagePath>Assets\Data\29.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\3.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\3.png">
       <PackagePath>Assets\Data\3.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\30.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\30.png">
       <PackagePath>Assets\Data\30.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\4.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\4.png">
       <PackagePath>Assets\Data\4.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\5.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\5.png">
       <PackagePath>Assets\Data\5.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\6.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\6.png">
       <PackagePath>Assets\Data\6.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\7.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\7.png">
       <PackagePath>Assets\Data\7.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\8.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\8.png">
       <PackagePath>Assets\Data\8.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Data\9.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\9.png">
       <PackagePath>Assets\Data\9.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\angAct.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\angAct.png">
       <PackagePath>Assets\Flaga\angAct.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\angielski.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\angielski.png">
       <PackagePath>Assets\Flaga\angielski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBlue.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBlue.png">
       <PackagePath>Assets\New\ButtonBlue.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBlueClick.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBlueClick.png">
       <PackagePath>Assets\New\ButtonBlueClick.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBluePointOver.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBluePointOver.png">
       <PackagePath>Assets\New\ButtonBluePointOver.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonNormal.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonNormal.png">
       <PackagePath>Assets\New\ButtonNormal.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonPointOver.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonPointOver.png">
       <PackagePath>Assets\New\ButtonPointOver.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonRed.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonRed.png">
       <PackagePath>Assets\New\ButtonRed.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonRedPointOver.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonRedPointOver.png">
       <PackagePath>Assets\New\ButtonRedPointOver.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\EnglishFlag.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\EnglishFlag.png">
       <PackagePath>Assets\New\EnglishFlag.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\NieZnam.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\NieZnam.png">
       <PackagePath>Assets\ZnamNieznam\NieZnam.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\NieZnamAct.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\NieZnamAct.png">
       <PackagePath>Assets\ZnamNieznam\NieZnamAct.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\polski.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\polski.png">
       <PackagePath>Assets\Flaga\polski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\Wroc.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\Wroc.png">
       <PackagePath>Assets\Flaga\Wroc.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\Znam.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\Znam.png">
       <PackagePath>Assets\ZnamNieznam\Znam.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\ZnamAct.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\ZnamAct.png">
       <PackagePath>Assets\ZnamNieznam\ZnamAct.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\IconNoTekst.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\IconNoTekst.png">
       <PackagePath>Assets\IconNoTekst.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\IconPNG.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\IconPNG.png">
       <PackagePath>Assets\IconPNG.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon1000.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon1000.png">
       <PackagePath>Assets\icon\Icon1000.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon1116.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon1116.png">
       <PackagePath>Assets\icon\Icon1116.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon120.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon120.png">
       <PackagePath>Assets\icon\Icon120.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon150.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon150.png">
       <PackagePath>Assets\icon\Icon150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon16.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon16.png">
       <PackagePath>Assets\icon\Icon16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon210.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon210.png">
       <PackagePath>Assets\icon\Icon210.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon24.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon24.png">
       <PackagePath>Assets\icon\Icon24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon248.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon248.png">
       <PackagePath>Assets\icon\Icon248.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon256.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon256.png">
       <PackagePath>Assets\icon\Icon256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon270.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon270.png">
       <PackagePath>Assets\icon\Icon270.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon30.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon30.png">
       <PackagePath>Assets\icon\Icon30.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon300.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon300.png">
       <PackagePath>Assets\icon\Icon300.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon310.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon310.png">
       <PackagePath>Assets\icon\Icon310.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon32.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon32.png">
       <PackagePath>Assets\icon\Icon32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon33.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon33.scale-100.png">
       <PackagePath>Assets\icon\Icon33.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon33.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon33.scale-140.png">
       <PackagePath>Assets\icon\Icon33.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon33.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon33.scale-180.png">
       <PackagePath>Assets\icon\Icon33.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon42.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon42.png">
       <PackagePath>Assets\icon\Icon42.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon43.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon43.png">
       <PackagePath>Assets\icon\Icon43.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon434.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon434.scale-140.png">
       <PackagePath>Assets\icon\Icon434.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon48.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon48.scale-100.png">
       <PackagePath>Assets\icon\Icon48.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon48.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon48.scale-140.png">
       <PackagePath>Assets\icon\Icon48.scale-140.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon48.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon48.scale-180.png">
       <PackagePath>Assets\icon\Icon48.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon50.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon50.png">
       <PackagePath>Assets\icon\Icon50.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon54.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon54.png">
       <PackagePath>Assets\icon\Icon54.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon558.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon558.scale-100.png">
       <PackagePath>Assets\icon\Icon558.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon558.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon558.scale-140.png">
       <PackagePath>Assets\icon\Icon558.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon558.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon558.scale-180.png">
       <PackagePath>Assets\icon\Icon558.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon558.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon558.scale-80.png">
       <PackagePath>Assets\icon\Icon558.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon620.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon620.png">
       <PackagePath>Assets\icon\Icon620.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon70.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon70.scale-100.png">
       <PackagePath>Assets\icon\Icon70.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon868.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon868.png">
       <PackagePath>Assets\icon\Icon868.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon90.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\icon\Icon90.png">
       <PackagePath>Assets\icon\Icon90.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Logo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Logo.scale-140.png">
       <PackagePath>Assets\Logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Logo.scale-180.png">
       <PackagePath>Assets\Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\Logo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Logo.scale-80.png">
       <PackagePath>Assets\Logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\polski.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\polski.png">
       <PackagePath>Assets\polski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-140.png">
       <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-180.png">
       <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-80.png">
       <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\SplashScreen.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\SplashScreen.scale-140.png">
       <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\SplashScreen.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\SplashScreen.scale-180.png">
       <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\StoreLogo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\StoreLogo.scale-140.png">
       <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\StoreLogo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\StoreLogo.scale-180.png">
       <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\New\PolishFlag.jpg">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\PolishFlag.jpg">
       <PackagePath>Assets\New\PolishFlag.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\Assets\wallpaper.jpg">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\wallpaper.jpg">
       <PackagePath>Assets\wallpaper.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\LanguageChoosePage.xbf">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LanguageChoosePage.xbf">
       <PackagePath>LanguageChoosePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\LearnPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LearnPage.xbf">
       <PackagePath>LearnPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\LevelChoosePage.xbf">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LevelChoosePage.xbf">
       <PackagePath>LevelChoosePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\DescriptionPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\DescriptionPage.xbf">
       <PackagePath>DescriptionPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\RankPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\RankPage.xbf">
       <PackagePath>RankPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.xr.xml">
       <PackagePath>SilverFiszki.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\silve_000\Desktop\Fishki\SilverFiszki\SilverFiszki.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

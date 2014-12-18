@@ -15,7 +15,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Counter.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)DB.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PolishEanglishDictionary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Score.cs" />
   </ItemGroup>
 </Project>
