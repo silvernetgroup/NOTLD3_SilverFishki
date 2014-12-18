@@ -291,6 +291,8 @@ namespace SilverFiszki.SilverFiszki_Windows_XamlTypeInfo
             case 12:   //  SilverFiszki.RankPage
                 userType = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_12_RankPage;
+                userType.AddMemberName("DefaultViewModel");
+                userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -327,6 +329,16 @@ namespace SilverFiszki.SilverFiszki_Windows_XamlTypeInfo
         private object get_5_LevelChoosePage_NavigationHelper(object instance)
         {
             var that = (global::SilverFiszki.LevelChoosePage)instance;
+            return that.NavigationHelper;
+        }
+        private object get_6_RankPage_DefaultViewModel(object instance)
+        {
+            var that = (global::SilverFiszki.RankPage)instance;
+            return that.DefaultViewModel;
+        }
+        private object get_7_RankPage_NavigationHelper(object instance)
+        {
+            var that = (global::SilverFiszki.RankPage)instance;
             return that.NavigationHelper;
         }
 
@@ -371,6 +383,18 @@ namespace SilverFiszki.SilverFiszki_Windows_XamlTypeInfo
                 userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.LevelChoosePage");
                 xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "SilverFiszki.Common.NavigationHelper");
                 xamlMember.Getter = get_5_LevelChoosePage_NavigationHelper;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "SilverFiszki.RankPage.DefaultViewModel":
+                userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.RankPage");
+                xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "SilverFiszki.Common.ObservableDictionary");
+                xamlMember.Getter = get_6_RankPage_DefaultViewModel;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "SilverFiszki.RankPage.NavigationHelper":
+                userType = (global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("SilverFiszki.RankPage");
+                xamlMember = new global::SilverFiszki.SilverFiszki_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "SilverFiszki.Common.NavigationHelper");
+                xamlMember.Getter = get_7_RankPage_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             }
