@@ -51,6 +51,13 @@ namespace SilverFiszki
             this.navigationHelper = new NavigationHelper(this);
             this.navigationHelper.LoadState += navigationHelper_LoadState;
             this.navigationHelper.SaveState += navigationHelper_SaveState;
+
+            Data.AddScoreToHighscores();
+
+            this.AnswersGood.Text = "Liczba odpowiedzi dobrych: " + Data.Znam;
+            this.AnswersWrong.Text = "Liczba odpowiedzi złych: " + Data.Nieznam;
+            this.AllAnswers.Text = "Liczba wszystkich odpowiedzi: " + Data.Suma;
+            this.GameTime.Text = "Data ukończenia Gry: " + Data.LastScore.GamrEndTimeAsString;
         }
 
         /// <summary>
@@ -105,8 +112,6 @@ namespace SilverFiszki
 
         private void backButton_Click(object sender, RoutedEventArgs e)
         {
-            Data.AddScoreToHighscores();
-
             //Reset data values
             Data.Nieznam = 0;
             Data.Znam = 0;

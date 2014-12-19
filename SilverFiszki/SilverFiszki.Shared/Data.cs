@@ -18,6 +18,8 @@ namespace SilverFiszki
         public static string Poziom { get; set; }
         public static int PoziomNumer { get; set; }
 
+        public static Score LastScore { get; set; }
+
         #region Highscore
 
         private static List<Score> highscore = new List<Score>();
@@ -75,10 +77,12 @@ namespace SilverFiszki
         {
             Score score = new Score()
             {
-                GameTime = DateTime.Now,
+                GameEndTime = DateTime.Now,
                 GoodAnswerCount = Znam,
                 WrongAnswerCount = Nieznam
             };
+
+            LastScore = score;
 
             return score;
         }
