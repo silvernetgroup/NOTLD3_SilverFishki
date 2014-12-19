@@ -106,6 +106,9 @@
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DescriptionPage.xaml.cs">
+      <DependentUpon>DescriptionPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="LanguageChoosePage.xaml.cs">
       <DependentUpon>LanguageChoosePage.xaml</DependentUpon>
     </Compile>
@@ -119,9 +122,6 @@
     <Compile Include="Common\ObservableDictionary.cs" />
     <Compile Include="Common\RelayCommand.cs" />
     <Compile Include="Common\SuspensionManager.cs" />
-    <Compile Include="DescriptionPage.xaml.cs">
-      <DependentUpon>DescriptionPage.xaml</DependentUpon>
-    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -240,6 +240,10 @@
     <Content Include="Assets\wallpaper.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="DescriptionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="LanguageChoosePage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -249,10 +253,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="LevelChoosePage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="DescriptionPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
