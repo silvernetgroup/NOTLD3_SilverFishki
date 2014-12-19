@@ -105,9 +105,12 @@ namespace SilverFiszki
 
         private void backButton_Click(object sender, RoutedEventArgs e)
         {
+            Data.AddScoreToHighscores();
+
+            //Reset data values
             Data.Nieznam = 0;
             Data.Znam = 0;
-
+            
             this.Frame.Navigate(typeof(MainPage));
         }
     }

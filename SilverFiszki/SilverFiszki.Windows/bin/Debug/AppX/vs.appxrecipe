@@ -26,7 +26,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.exe">
       <PackagePath>SilverFiszki.Windows.exe</PackagePath>
-      <Modified>2014-12-19T00:04:54.433</Modified>
+      <Modified>2014-12-19T00:33:42.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\1.png">
       <PackagePath>Assets\Data\1.png</PackagePath>
@@ -465,7 +465,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\RankPage.xbf">
       <PackagePath>RankPage.xbf</PackagePath>
-      <Modified>2014-12-19T00:04:53.649</Modified>
+      <Modified>2014-12-19T00:29:48.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\ResultPage.xbf">
       <PackagePath>ResultPage.xbf</PackagePath>

@@ -58,6 +58,12 @@ namespace SilverFiszki
         private static void SaveHighscore()
         {
             KeyValuePair<string, object> pair = new KeyValuePair<string, object>("Highscore", highscore.ScoreToXml());
+
+            if (AppSettings.Values.ContainsKey("Highscore"))
+            {
+                AppSettings.Values.Remove("Highscore");
+            }
+
             AppSettings.Values.Add(pair);
         }
         private static void AddScore(Score newScore)
@@ -90,7 +96,7 @@ namespace SilverFiszki
         /// <returns></returns>
         public static string ScoreToXml(this List<Score> value)
         {
-            XmlSerializer serializer = new XmlSerializer(typeof(Score));
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Score>));
             StringBuilder stringBuilder = new StringBuilder();
             XmlWriterSettings settings = new XmlWriterSettings()
             {

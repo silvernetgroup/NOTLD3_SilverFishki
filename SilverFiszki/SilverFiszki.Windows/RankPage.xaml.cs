@@ -50,14 +50,16 @@ namespace SilverFiszki
             this.InitializeComponent();
             this.navigationHelper = new NavigationHelper(this);
             this.navigationHelper.LoadState += navigationHelper_LoadState;
-            this.navigationHelper.SaveState += navigationHelper_SaveState;
+            this.navigationHelper.SaveState += navigationHelper_SaveState; 
+            
+            LoadHighscore();
         }
 
         protected override void OnNavigatingFrom(NavigatingCancelEventArgs e)
         {
             base.OnNavigatingFrom(e);
 
-            LoadHighscore();
+           
         }
 
         /// <summary>
@@ -120,19 +122,19 @@ namespace SilverFiszki
 	        }
             if (highscore.Count >= 4)
             {
-                Rank5.Text = "4. " + highscore[3].ToString();
+                Rank4.Text = "4. " + highscore[3].ToString();
             }
             if (highscore.Count >= 3)
             {
-                Rank5.Text = "3. " + highscore[2].ToString();
+                Rank3.Text = "3. " + highscore[2].ToString();
             }
             if (highscore.Count >= 2)
             {
-                Rank5.Text = "2. " + highscore[1].ToString();
+                Rank2.Text = "2. " + highscore[1].ToString();
             }
             if (highscore.Count >= 1)
             {
-                Rank5.Text = "1. " + highscore[0].ToString();
+                Rank1.Text = "1. " + highscore[0].ToString();
             }
         }
     }
