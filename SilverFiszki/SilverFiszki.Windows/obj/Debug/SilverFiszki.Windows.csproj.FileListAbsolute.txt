@@ -211,3 +211,8 @@ C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\
 C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\Debug\qualifiers.txt.intermediate
 C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\ResultPage.xbf
+C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\Debug\ResultPage.g.i.cs
+C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\Debug\ResultPage.g.cs
+C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\Debug\ResultPage.xaml
+C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\obj\Debug\ResultPage.xbf

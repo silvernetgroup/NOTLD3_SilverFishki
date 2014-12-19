@@ -168,5 +168,6 @@
     <RootType FullName="SilverFiszki.DescriptionPage" />
     <RootType FullName="SilverFiszki.MainPage" />
     <RootType FullName="SilverFiszki.RankPage" />
+    <RootType FullName="SilverFiszki.ResultPage" />
   </Roots.RootTypes>
 </Roots>

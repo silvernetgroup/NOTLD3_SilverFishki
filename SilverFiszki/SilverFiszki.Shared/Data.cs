@@ -21,6 +21,14 @@ namespace SilverFiszki
         #region Highscore
 
         private static List<Score> highscore = new List<Score>();
+        public static List<Score> Highscore
+        {
+            get
+            {
+                highscore.Sort(); 
+                return highscore;
+            }
+        }
 
         private static ApplicationDataContainer appSettings = null;
         public static ApplicationDataContainer AppSettings

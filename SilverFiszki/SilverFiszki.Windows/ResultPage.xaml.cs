@@ -21,17 +21,11 @@ namespace SilverFiszki
     /// <summary>
     /// A basic page that provides characteristics common to most applications.
     /// </summary>
-    public sealed partial class LearnPage : Page
+    public sealed partial class ResultPage : Page
     {
 
         private NavigationHelper navigationHelper;
         private ObservableDictionary defaultViewModel = new ObservableDictionary();
-
-        private Random random = new Random();
-        PolishEanglishDictionary db = new PolishEanglishDictionary();
-        Row currentRow = null;
-
-        DispatcherTimer timer = new DispatcherTimer();
 
         /// <summary>
         /// This can be changed to a strongly typed view model.
@@ -51,16 +45,12 @@ namespace SilverFiszki
         }
 
 
-        public LearnPage()
+        public ResultPage()
         {
             this.InitializeComponent();
             this.navigationHelper = new NavigationHelper(this);
             this.navigationHelper.LoadState += navigationHelper_LoadState;
             this.navigationHelper.SaveState += navigationHelper_SaveState;
-
-            timer.Interval = new TimeSpan(0, 0, 5);
-            timer.Tick += timer_Tick;
-            LoadNext();
         }
 
         /// <summary>
@@ -113,57 +103,12 @@ namespace SilverFiszki
 
         #endregion
 
-        private void timer_Tick(object sender, object e)
+        private void backButton_Click(object sender, RoutedEventArgs e)
         {
-            timer.Stop();
-            ButtonNieznam.IsEnabled = true;
-            ButtonZnam.IsEnabled = true;
-            LoadNext();
+            Data.Nieznam = 0;
+            Data.Znam = 0;
+
+            this.Frame.Navigate(typeof(MainPage));
         }
-
-        private void LoadNext()
-        {
-            currentRow = db.getRanodmRow(Data.PoziomNumer);
-            MainImage.Source = currentRow.Image;
-            Opis.Text = "";
-
-            if (Data.Suma == 10)
-            {
-                this.Frame.Navigate(typeof(ResultPage));
-            }
-        }
-
-        private void ZnamButton_Click(object sender, RoutedEventArgs e)
-        {
-            Data.Znam++;           
-            ZnamCounter.Text = "Znam - " + Data.Znam.ToString();
-            LoadNext();
-        }
-
-        private void NieznamButton_Click(object sender, RoutedEventArgs e)
-        {
-            Data.Nieznam++;
-            NieZnamCounter.Text = "Nie Znam - " + Data.Nieznam;
-
-            if (Data.Jezyk == "en")
-            {
-                Opis.Text = currentRow.Angielski + " - " + currentRow.ZdanieAngielski;
-            }
-            else
-            {
-                Opis.Text = currentRow.Polski + " - " + currentRow.ZdaniePolski;
-            }
-
-            BlokujPrzyciski();
-
-            timer.Start();
-        }
-
-        private void BlokujPrzyciski()
-        {
-            ButtonZnam.IsEnabled = false;
-            ButtonNieznam.IsEnabled = false;
-        }
-
     }
 }

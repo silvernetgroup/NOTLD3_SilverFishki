@@ -353,6 +353,9 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\RankPage.xbf">
       <PackagePath>RankPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\ResultPage.xbf">
+      <PackagePath>ResultPage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.xr.xml">
       <PackagePath>SilverFiszki.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>

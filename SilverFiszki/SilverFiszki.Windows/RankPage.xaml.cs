@@ -53,6 +53,13 @@ namespace SilverFiszki
             this.navigationHelper.SaveState += navigationHelper_SaveState;
         }
 
+        protected override void OnNavigatingFrom(NavigatingCancelEventArgs e)
+        {
+            base.OnNavigatingFrom(e);
+
+            LoadHighscore();
+        }
+
         /// <summary>
         /// Populates the page with content passed during navigation. Any saved state is also
         /// provided when recreating a page from a prior session.
@@ -102,5 +109,31 @@ namespace SilverFiszki
         }
 
         #endregion
+
+        private void LoadHighscore()
+        {
+            List<Score> highscore = Data.Highscore;
+
+            if (highscore.Count >= 5)
+	        {
+                Rank5.Text = "5. " + highscore[4].ToString();
+	        }
+            if (highscore.Count >= 4)
+            {
+                Rank5.Text = "4. " + highscore[3].ToString();
+            }
+            if (highscore.Count >= 3)
+            {
+                Rank5.Text = "3. " + highscore[2].ToString();
+            }
+            if (highscore.Count >= 2)
+            {
+                Rank5.Text = "2. " + highscore[1].ToString();
+            }
+            if (highscore.Count >= 1)
+            {
+                Rank5.Text = "1. " + highscore[0].ToString();
+            }
+        }
     }
 }

@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-12-18T23:26:08.157</Modified>
+      <Modified>2014-12-19T00:04:55.616</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.exe">
       <PackagePath>SilverFiszki.Windows.exe</PackagePath>
-      <Modified>2014-12-18T23:26:07.535</Modified>
+      <Modified>2014-12-19T00:04:54.433</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\1.png">
       <PackagePath>Assets\Data\1.png</PackagePath>
@@ -465,15 +465,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\RankPage.xbf">
       <PackagePath>RankPage.xbf</PackagePath>
-      <Modified>2014-12-18T23:26:07.088</Modified>
+      <Modified>2014-12-19T00:04:53.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\ResultPage.xbf">
+      <PackagePath>ResultPage.xbf</PackagePath>
+      <Modified>2014-12-19T00:04:53.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.xr.xml">
       <PackagePath>SilverFiszki.Windows.xr.xml</PackagePath>
-      <Modified>2014-12-18T23:26:07.003</Modified>
+      <Modified>2014-12-19T00:04:53.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-12-18T23:26:07.770</Modified>
+      <Modified>2014-12-19T00:04:54.921</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
