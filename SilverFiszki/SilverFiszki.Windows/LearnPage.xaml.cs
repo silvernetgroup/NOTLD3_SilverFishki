@@ -32,7 +32,7 @@ namespace SilverFiszki
         Row currentRow = null;
 
         DispatcherTimer timer = new DispatcherTimer();
-
+        DispatcherTimer showTimeTimer = new DispatcherTimer();
         /// <summary>
         /// This can be changed to a strongly typed view model.
         /// </summary>
@@ -58,9 +58,22 @@ namespace SilverFiszki
             this.navigationHelper.LoadState += navigationHelper_LoadState;
             this.navigationHelper.SaveState += navigationHelper_SaveState;
 
+            Data.GameStart = DateTime.Now;
+
+            showTimeTimer = new DispatcherTimer();
+            showTimeTimer.Interval = new TimeSpan(0, 0, 0, 0, 300);
+            showTimeTimer.Tick += showTimeTimer_Tick;
+            showTimeTimer.Start();
+
             timer.Interval = new TimeSpan(0, 0, 5);
             timer.Tick += timer_Tick;
             LoadNext();
+        }
+
+        private void showTimeTimer_Tick(object sender, object e)
+        {
+            TimeSpan timeElapsedInGame = DateTime.Now - Data.GameStart;
+            TimerTextBlock.Text = string.Format("{0}:{1}", timeElapsedInGame.Minutes, timeElapsedInGame.Seconds);
         }
 
         /// <summary>
@@ -129,6 +142,7 @@ namespace SilverFiszki
 
             if (Data.Suma == 10)
             {
+                Data.GameStop = DateTime.Now;
                 this.Frame.Navigate(typeof(ResultPage));
             }
         }
@@ -165,5 +179,9 @@ namespace SilverFiszki
             ButtonNieznam.IsEnabled = false;
         }
 
+        private void backButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(MainPage));
+        }
     }
 }

@@ -57,7 +57,7 @@ namespace SilverFiszki
             this.AnswersGood.Text = "Liczba odpowiedzi dobrych: " + Data.Znam;
             this.AnswersWrong.Text = "Liczba odpowiedzi złych: " + Data.Nieznam;
             this.AllAnswers.Text = "Liczba wszystkich odpowiedzi: " + Data.Suma;
-            this.GameTime.Text = "Data ukończenia Gry: " + Data.LastScore.GamrEndTimeAsString;
+            this.GameTime.Text = "Czas gry: " + string.Format("{0}:{1}", Data.TimeElapsed.Minutes, Data.TimeElapsed.Seconds);
         }
 
         /// <summary>

@@ -32,9 +32,10 @@
         <Image Grid.Row="1" Grid.Column="1" Source="Assets/IconPNG.png" />
 
         <!-- Back button -->
-        <Button x:Name="backButton" Margin="39,39,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+        <Button x:Name="backButton" Margin="39,39,39,0" Width="150" Height="60" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                Style="{StaticResource ButtonBack}"
                 Grid.Column="1" Grid.Row="1"
-                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        BorderThickness="0"
                         VerticalAlignment="Top"
                         AutomationProperties.Name="Back"
                         AutomationProperties.AutomationId="BackButton"
@@ -47,21 +48,26 @@
 
         <Grid Grid.Row="3" Grid.Column="1">
             <Grid.RowDefinitions>
-                <RowDefinition Height="10*" />
-                <RowDefinition Height="80*" />
-                <RowDefinition Height="10*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="60*" />
+                <RowDefinition Height="20*" />
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="2*" />
-                <ColumnDefinition Width="48*" />
-                <ColumnDefinition Width="48*" />
-                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="15*" />
+                <ColumnDefinition Width="30*" />
+                <ColumnDefinition Width="10*" />
+                <ColumnDefinition Width="30*" />
+                <ColumnDefinition Width="15*" />
             </Grid.ColumnDefinitions>
 
             <!-- Button - Polish -->
             <Button x:ConnectionId='1' Grid.Row="1" Grid.Column="1" Margin="30,0,30,0"                           Style="{StaticResource ButtonPolish}"/>
+            <!-- TextBlock Polish -->
+            <TextBlock Grid.Column="1" Text="Polski" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <!-- Button - Eanglish -->
-            <Button x:ConnectionId='2' Grid.Row="1" Grid.Column="2" Margin="30,0,30,0"                          Style="{StaticResource ButtonEanglish}"/>
+            <Button x:ConnectionId='2' Grid.Row="1" Grid.Column="3" Margin="30,0,30,0"                          Style="{StaticResource ButtonEanglish}"/>
+            <!-- TextBlock Polish -->
+            <TextBlock Grid.Column="3" Text="Angielski" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         </Grid>
     </Grid>
 </Page>

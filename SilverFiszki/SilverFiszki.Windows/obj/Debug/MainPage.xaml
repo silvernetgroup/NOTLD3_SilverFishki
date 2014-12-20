@@ -28,7 +28,7 @@
 
         <!-- Menu -->
         <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >
-            <Button x:ConnectionId='1' Content="Rozpocznij Naukę" Width="400" Height="100" Margin="10"                                Style="{StaticResource ButtonBeginLearn}"/>
+            <Button x:ConnectionId='1' Content="Rozpocznij Naukę" Width="400" Height="100" Margin="10"                                Style="{StaticResource ButtonDescription}"/>
             <Button x:ConnectionId='2' Content="Ranking" Width="400" Height="100" Margin="10"                          Style="{StaticResource ButtonRank}"/>
             <Button x:ConnectionId='3' Content="O aplikacji" Width="400" Height="100" Margin="10"                                 Style="{StaticResource ButtonDescription}"/>
         </StackPanel>

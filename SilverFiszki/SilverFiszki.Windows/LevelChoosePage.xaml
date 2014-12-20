@@ -54,9 +54,10 @@
         <Image Grid.Row="1" Grid.Column="1" Source="Assets/IconPNG.png" />
 
         <!-- Back button -->
-        <Button x:Name="backButton" Margin="39,39,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+        <Button x:Name="backButton" Margin="39,39,39,0" Width="150" Height="60" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                Style="{StaticResource ButtonBack}"
                 Grid.Column="1" Grid.Row="1"
-                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        BorderThickness="0"
                         VerticalAlignment="Top"
                         AutomationProperties.Name="Back"
                         AutomationProperties.AutomationId="BackButton"
@@ -64,7 +65,7 @@
         
         <!-- Menu -->
         <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >
-            <Button Content="Łatwy" Width="400" Height="100" Margin="10" Click="ButtonDificultEasy_Click" Style="{StaticResource ButtonBeginLearn}"/>
+            <Button Content="Łatwy" Width="400" Height="100" Margin="10" Click="ButtonDificultEasy_Click" Style="{StaticResource ButtonDescription}"/>
             <Button Content="Średni" Width="400" Height="100" Margin="10" Click="ButtonDificultMedium_Click" Style="{StaticResource ButtonRank}"/>
             <Button Content="Trudny" Width="400" Height="100" Margin="10" Click="ButtonDificultHard_Click" Style="{StaticResource ButtonDescription}"/>
         </StackPanel>

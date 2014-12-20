@@ -31,13 +31,19 @@
         <Image Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Name="MainImage" Source="Assets/Data/6.png"/>
 
         <!-- Back button -->
-        <Button x:Name="backButton" Margin="39,39,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+        <Button x:Name="backButton" Margin="39,39,39,0" Width="150" Height="60" 
+                Style="{StaticResource ButtonBack}"
                 Grid.Column="1" Grid.Row="1"
-                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        BorderThickness="0"
                         VerticalAlignment="Top"
                         AutomationProperties.Name="Back"
                         AutomationProperties.AutomationId="BackButton"
-                        AutomationProperties.ItemType="Navigation Button"/>
+                        AutomationProperties.ItemType="Navigation Button"
+                Click="backButton_Click"/>
+
+        <!-- textblock - Zegar -->
+        <TextBlock Name="TimerTextBlock" Grid.Row="1" Grid.Column="1" Text="1:58" FontSize="40" VerticalAlignment="Top" HorizontalAlignment="Right" 
+                   Margin="39,39,39,39" Width="150" TextAlignment="Center" Height="60" />
 
         <!-- Textblock - Opis -->
         <TextBlock Name="Opis" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" 
@@ -60,12 +66,12 @@
 
             <!-- Button Znam -->
             <Button Name="ButtonZnam" Grid.Column="1" Grid.Row="1" Click="ZnamButton_Click" Style="{StaticResource ButtonZnam}">
-                <TextBlock Name="ZnamCounter" Text="Znam - 0" FontSize="40" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <TextBlock Name="ZnamCounter" Text="Znam - 0" FontSize="40" VerticalAlignment="Center" HorizontalAlignment="Center" SelectionHighlightColor="White"/>
             </Button>
 
             <!-- Button Nie Znam -->
             <Button Name="ButtonNieznam" Grid.Column="3" Grid.Row="1" FontSize="40" Click="NieznamButton_Click" Style="{StaticResource ButtonNieZnam}">
-                <TextBlock Name="NieZnamCounter" Text="Nie Znam - 0" FontSize="40" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <TextBlock Name="NieZnamCounter" Text="Nie Znam - 0" FontSize="40" VerticalAlignment="Center" HorizontalAlignment="Center" SelectionHighlightColor="White"/>
             </Button>
         </Grid>
     </Grid>

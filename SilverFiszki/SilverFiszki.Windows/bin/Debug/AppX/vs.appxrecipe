@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-12-19T00:04:55.616</Modified>
+      <Modified>2014-12-20T11:04:06.251</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.exe">
       <PackagePath>SilverFiszki.Windows.exe</PackagePath>
-      <Modified>2014-12-19T00:43:30.490</Modified>
+      <Modified>2014-12-20T11:43:48.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Data\1.png">
       <PackagePath>Assets\Data\1.png</PackagePath>
@@ -156,6 +156,54 @@
       <PackagePath>Assets\Flaga\angielski.png</PackagePath>
       <Modified>2014-12-18T22:44:25.082</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\angielski.png">
+      <PackagePath>Assets\FromD\angielski.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\back.png">
+      <PackagePath>Assets\FromD\back.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\Button.png">
+      <PackagePath>Assets\FromD\Button.png</PackagePath>
+      <Modified>2014-12-20T09:32:15.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\ButtonDark.png">
+      <PackagePath>Assets\FromD\ButtonDark.png</PackagePath>
+      <Modified>2014-12-20T09:32:15.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\Latwy.png">
+      <PackagePath>Assets\FromD\Latwy.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\nieZnam.png">
+      <PackagePath>Assets\FromD\nieZnam.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\nieZnamDis.png">
+      <PackagePath>Assets\FromD\nieZnamDis.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\Normalny.png">
+      <PackagePath>Assets\FromD\Normalny.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\polski.png">
+      <PackagePath>Assets\FromD\polski.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\Trudny.png">
+      <PackagePath>Assets\FromD\Trudny.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\znam.png">
+      <PackagePath>Assets\FromD\znam.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\FromD\znamDis.png">
+      <PackagePath>Assets\FromD\znamDis.png</PackagePath>
+      <Modified>2014-12-20T09:13:12.777</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\New\ButtonBlue.png">
       <PackagePath>Assets\New\ButtonBlue.png</PackagePath>
       <Modified>2014-12-18T22:44:25.106</Modified>
@@ -188,14 +236,6 @@
       <PackagePath>Assets\New\EnglishFlag.png</PackagePath>
       <Modified>2014-12-18T22:44:25.115</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\NieZnam.png">
-      <PackagePath>Assets\ZnamNieznam\NieZnam.png</PackagePath>
-      <Modified>2014-12-18T22:44:25.131</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\NieZnamAct.png">
-      <PackagePath>Assets\ZnamNieznam\NieZnamAct.png</PackagePath>
-      <Modified>2014-12-18T22:44:25.131</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\polski.png">
       <PackagePath>Assets\Flaga\polski.png</PackagePath>
       <Modified>2014-12-18T22:44:25.098</Modified>
@@ -203,14 +243,6 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\Flaga\Wroc.png">
       <PackagePath>Assets\Flaga\Wroc.png</PackagePath>
       <Modified>2014-12-18T22:44:25.082</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\Znam.png">
-      <PackagePath>Assets\ZnamNieznam\Znam.png</PackagePath>
-      <Modified>2014-12-18T22:44:25.131</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\ZnamNieznam\ZnamAct.png">
-      <PackagePath>Assets\ZnamNieznam\ZnamAct.png</PackagePath>
-      <Modified>2014-12-18T22:44:25.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\IconNoTekst.png">
       <PackagePath>Assets\IconNoTekst.png</PackagePath>
@@ -377,10 +409,6 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-12-18T22:44:25.105</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\polski.png">
-      <PackagePath>Assets\polski.png</PackagePath>
-      <Modified>2014-12-18T22:44:25.178</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -441,43 +469,43 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-12-18T23:00:15.462</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LanguageChoosePage.xbf">
-      <PackagePath>LanguageChoosePage.xbf</PackagePath>
-      <Modified>2014-12-18T23:00:15.462</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LearnPage.xbf">
-      <PackagePath>LearnPage.xbf</PackagePath>
-      <Modified>2014-12-18T23:00:15.462</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LevelChoosePage.xbf">
-      <PackagePath>LevelChoosePage.xbf</PackagePath>
-      <Modified>2014-12-18T23:00:15.462</Modified>
+      <Modified>2014-12-20T11:39:23.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\DescriptionPage.xbf">
       <PackagePath>DescriptionPage.xbf</PackagePath>
-      <Modified>2014-12-18T23:00:15.462</Modified>
+      <Modified>2014-12-20T11:39:23.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LanguageChoosePage.xbf">
+      <PackagePath>LanguageChoosePage.xbf</PackagePath>
+      <Modified>2014-12-20T11:39:23.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LearnPage.xbf">
+      <PackagePath>LearnPage.xbf</PackagePath>
+      <Modified>2014-12-20T11:39:23.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\LevelChoosePage.xbf">
+      <PackagePath>LevelChoosePage.xbf</PackagePath>
+      <Modified>2014-12-20T11:39:23.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-12-18T23:00:15.462</Modified>
+      <Modified>2014-12-20T11:39:23.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\RankPage.xbf">
       <PackagePath>RankPage.xbf</PackagePath>
-      <Modified>2014-12-19T00:40:52.422</Modified>
+      <Modified>2014-12-20T11:39:23.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\ResultPage.xbf">
       <PackagePath>ResultPage.xbf</PackagePath>
-      <Modified>2014-12-19T00:40:52.423</Modified>
+      <Modified>2014-12-20T11:39:23.409</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\SilverFiszki.Windows.xr.xml">
       <PackagePath>SilverFiszki.Windows.xr.xml</PackagePath>
-      <Modified>2014-12-19T00:04:53.458</Modified>
+      <Modified>2014-12-20T11:39:22.920</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-12-19T00:04:54.921</Modified>
+      <Modified>2014-12-20T11:04:06.053</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

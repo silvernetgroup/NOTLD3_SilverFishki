@@ -16,14 +16,15 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
       <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
       <RootProperty Name="Command" />
       <RootProperty Name="Style" />
+      <RootProperty Name="BorderThickness" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Name" />
       <RootProperty Name="Content" />
       <RootProperty Name="FontSize" />
-      <RootProperty Name="Width" />
-      <RootProperty Name="Height" />
       <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Control">
@@ -143,17 +144,25 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="Content" />
+    </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="TextAlignment" />
       <RootProperty Name="FontSize" />
       <RootProperty Name="Inlines" />
-      <RootProperty Name="Name" />
-      <RootProperty Name="TextAlignment" />
-      <RootProperty Name="TextWrapping" />
       <RootProperty Name="Text" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="SelectionHighlightColor" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="SilverFiszki.DescriptionPage" />
     <RootType FullName="SilverFiszki.LanguageChoosePage" />
     <RootType FullName="SilverFiszki.LearnPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
@@ -162,10 +171,6 @@
       <RootProperty Name="Children" />
     </RootType>
     <RootType FullName="SilverFiszki.LevelChoosePage" />
-    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
-      <RootProperty Name="Content" />
-    </RootType>
-    <RootType FullName="SilverFiszki.DescriptionPage" />
     <RootType FullName="SilverFiszki.MainPage" />
     <RootType FullName="SilverFiszki.RankPage" />
     <RootType FullName="SilverFiszki.ResultPage" />

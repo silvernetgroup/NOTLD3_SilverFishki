@@ -37,14 +37,15 @@
         </Grid.RowDefinitions>
 
         <!-- Back button -->
-        <Button x:Name="backButton" Margin="39,39,39,0"
+        <Button x:Name="backButton" Margin="39,39,39,0" Width="150" Height="60" 
+                Style="{StaticResource ButtonBack}"
                 Grid.Column="1" Grid.Row="1"
-                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        BorderThickness="0"
                         VerticalAlignment="Top"
                         AutomationProperties.Name="Back"
                         AutomationProperties.AutomationId="BackButton"
                         AutomationProperties.ItemType="Navigation Button"
-                Click="backButton_Click"/>
+                        Click="backButton_Click"/>
 
         <!-- Logo SiFishki -->
         <Image Grid.Row="1" Grid.Column="1" Source="Assets/IconPNG.png" />

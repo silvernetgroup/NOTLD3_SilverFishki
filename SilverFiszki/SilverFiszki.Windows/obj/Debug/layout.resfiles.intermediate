@@ -32,6 +32,18 @@ Assets\Flaga\angAct.png
 Assets\Flaga\angielski.png
 Assets\Flaga\polski.png
 Assets\Flaga\Wroc.png
+Assets\FromD\angielski.png
+Assets\FromD\back.png
+Assets\FromD\Button.png
+Assets\FromD\ButtonDark.png
+Assets\FromD\Latwy.png
+Assets\FromD\nieZnam.png
+Assets\FromD\nieZnamDis.png
+Assets\FromD\Normalny.png
+Assets\FromD\polski.png
+Assets\FromD\Trudny.png
+Assets\FromD\znam.png
+Assets\FromD\znamDis.png
 Assets\icon\Icon1000.png
 Assets\icon\Icon1116.png
 Assets\icon\Icon120.png
@@ -80,7 +92,6 @@ Assets\New\ButtonRed.png
 Assets\New\ButtonRedPointOver.png
 Assets\New\EnglishFlag.png
 Assets\New\PolishFlag.jpg
-Assets\polski.png
 Assets\SmallLogo.scale-100.png
 Assets\SmallLogo.scale-140.png
 Assets\SmallLogo.scale-180.png
@@ -92,10 +103,6 @@ Assets\StoreLogo.scale-100.png
 Assets\StoreLogo.scale-140.png
 Assets\StoreLogo.scale-180.png
 Assets\wallpaper.jpg
-Assets\ZnamNieznam\NieZnam.png
-Assets\ZnamNieznam\NieZnamAct.png
-Assets\ZnamNieznam\Znam.png
-Assets\ZnamNieznam\ZnamAct.png
 App.xbf
 DescriptionPage.xbf
 LanguageChoosePage.xbf

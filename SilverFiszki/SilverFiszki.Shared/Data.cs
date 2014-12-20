@@ -18,6 +18,11 @@ namespace SilverFiszki
         public static string Poziom { get; set; }
         public static int PoziomNumer { get; set; }
 
+        public static DateTime GameStart { get; set; }
+        public static DateTime GameStop { get; set; }
+
+        public static TimeSpan TimeElapsed { get { return GameStop - GameStart; } }
+
         public static Score LastScore { get; set; }
 
         #region Highscore
@@ -77,9 +82,10 @@ namespace SilverFiszki
         {
             Score score = new Score()
             {
-                GameEndTime = DateTime.Now,
-                GoodAnswerCount = Znam,
-                WrongAnswerCount = Nieznam
+                GameStartTime = Data.GameStart,
+                GameEndTime = Data.GameStop,
+                GoodAnswerCount = Data.Znam,
+                WrongAnswerCount = Data.Nieznam,
             };
 
             LastScore = score;

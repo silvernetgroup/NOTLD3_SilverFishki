@@ -74,7 +74,7 @@ namespace SilverFiszki
             do
             {
                 row = list[random.Next(list.Count)];
-            } while (row.Level <= Data.PoziomNumer);
+            } while (row.Level != Data.PoziomNumer);
 
             return row;
         }

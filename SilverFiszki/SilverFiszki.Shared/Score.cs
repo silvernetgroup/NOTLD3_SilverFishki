@@ -16,6 +16,12 @@ namespace SilverFiszki
 
         [XmlAttribute]
         public DateTime GameEndTime { get; set; }
+        [XmlAttribute]
+        public DateTime GameStartTime { get; set; }
+
+        public TimeSpan CzasGry { get { return GameEndTime - GameStartTime; } }
+        public string CzasGryString { get { return string.Format("{0}:{1}", CzasGry.Minutes, CzasGry.Seconds); } }
+
         public string GamrEndTimeAsString { get { return string.Format("{0}/{1}/{2}", GameEndTime.Day, GameEndTime.Month, GameEndTime.Year); } }
         
         public int CompareTo(Score other)
@@ -36,7 +42,7 @@ namespace SilverFiszki
         
         public override string ToString()
         {
-            return string.Format("Znane słowa: {0}, Nie znane słowa: {1}, Data ukończenia gry: {2}",GoodAnswerCount, WrongAnswerCount, GamrEndTimeAsString);
+            return string.Format("Znane słowa: {0}, Nie znane słowa: {1}, Czas gry: {2}",GoodAnswerCount, WrongAnswerCount, CzasGryString);
         }
     }
 }
