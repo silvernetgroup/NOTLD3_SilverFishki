@@ -1,0 +1,94 @@
+﻿<Page
+    x:Class="SilverFiszki.LanguageChoosePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SilverFiszki"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="5*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="35*" />
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="5*" />
+        </Grid.RowDefinitions>
+
+        <!-- Logo SiFishki -->
+        <Image 
+            Grid.Row="1" 
+            Grid.Column="1" 
+            Source="Assets/IconPNG.png" />
+
+        <!-- Information inside -->
+        <TextBlock 
+            Grid.Row="2" 
+            Grid.Column="1" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            FontSize="25">
+            wybierz język
+        </TextBlock>
+
+        <Grid 
+            Grid.Row="3" 
+            Grid.Column="0"
+            Grid.ColumnSpan="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="60*" />
+                <RowDefinition Height="20*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*" />
+                <ColumnDefinition Width="50*" />
+                <ColumnDefinition Width="0*" />
+                <ColumnDefinition Width="50*" />
+                <ColumnDefinition Width="0*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Button - Polish -->
+            <Button x:ConnectionId='1' 
+                Grid.Row="1" 
+                Grid.Column="1" 
+                                          
+                Style="{StaticResource ButtonPolish}"/>
+            
+            <!-- TextBlock Polish -->
+            <TextBlock 
+                Grid.Column="1" 
+                Text="Polski" 
+                FontSize="20" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center"/>
+            
+            <!-- Button - Eanglish -->
+            <Button x:ConnectionId='2' 
+                Grid.Row="1" 
+                Grid.Column="3" 
+                                         
+                Style="{StaticResource ButtonEanglish}"/>
+            
+            <!-- TextBlock Polish -->
+            <TextBlock 
+                Grid.Column="3" 
+                Text="Angielski" 
+                FontSize="20" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</Page>
+

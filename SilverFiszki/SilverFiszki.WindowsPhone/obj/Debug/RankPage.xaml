@@ -1,0 +1,100 @@
+﻿<Page
+    x:Class="SilverFiszki.RankPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SilverFiszki"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <Style TargetType="TextBlock" >
+            <Setter Property="FontSize" Value="35" />
+            <Setter Property="VerticalAlignment" Value="Stretch" />
+            <Setter Property="HorizontalAlignment" Value="Stretch" />
+            <Setter Property="TextAlignment" Value="Center" />
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="5*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"  />
+            <RowDefinition Height="10*" />
+            <RowDefinition Height="8*" />
+            <RowDefinition Height="62*" />
+            <RowDefinition Height="10*" />
+            <RowDefinition Height="5*" />
+        </Grid.RowDefinitions>
+
+        <!-- Back button -->
+        <Button x:ConnectionId='1' 
+            x:Name="backButton"
+            Width="135" 
+            Height="30" 
+            Style="{StaticResource ButtonBack}"
+            Grid.Column="1" Grid.Row="1"
+            BorderThickness="0"
+            VerticalAlignment="Top"
+                                    />
+
+        <!-- Logo SiFishki -->
+        <Image 
+            Grid.Row="4" 
+            Grid.Column="1" 
+            Source="Assets/IconPNG.png" />
+
+        <!-- Title -->
+        <TextBlock 
+            Grid.Column="1" 
+            Grid.Row="2" 
+            Text="Ranking" 
+            Margin="10"
+            FontSize="28"
+            VerticalAlignment="Center"/>
+
+        <!-- Rank -->
+        <Grid 
+            Grid.Column="1" 
+            Grid.Row="3" 
+            Background="#018667"
+            Margin="20,0,20,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="8*" />
+                <RowDefinition Height="10*" />
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="1" Name="Rank1"  Text="01.  12 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="2" Name="Rank2"  Text="02.  11 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="3" Name="Rank3"  Text="03.  09 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="4" Name="Rank4"  Text="04.  08 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="5" Name="Rank5"  Text="05.  08 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="6" Name="Rank6"  Text="06.  08 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="7" Name="Rank7"  Text="07.  05 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="8" Name="Rank8"  Text="08.  03 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="9" Name="Rank9"  Text="09.  02 pkt  01:20" FontSize="17"/>
+            <TextBlock Grid.Row="10" Name="Rank10" Text="10.  00 pkt  01:20" FontSize="17"/>
+        </Grid>
+    </Grid>
+</Page>
+

@@ -81,17 +81,61 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <Page Include="DescriptionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LanguageChoosePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LearnPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LevelChoosePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RankPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ResultPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\NavigationHelper.cs" />
+    <Compile Include="Common\ObservableDictionary.cs" />
+    <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="DescriptionPage.xaml.cs">
+      <DependentUpon>DescriptionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LanguageChoosePage.xaml.cs">
+      <DependentUpon>LanguageChoosePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LearnPage.xaml.cs">
+      <DependentUpon>LearnPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LevelChoosePage.xaml.cs">
+      <DependentUpon>LevelChoosePage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="NaukaPage.xaml.cs">
-      <DependentUpon>NaukaPage.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StatsPage.xaml.cs">
-      <DependentUpon>StatsPage.xaml</DependentUpon>
+    <Compile Include="RankPage.xaml.cs">
+      <DependentUpon>RankPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ResultPage.xaml.cs">
+      <DependentUpon>ResultPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -101,95 +145,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\angielski.png" />
-    <Content Include="Assets\Assets\Data\1.png" />
-    <Content Include="Assets\Assets\Data\10.png" />
-    <Content Include="Assets\Assets\Data\11.png" />
-    <Content Include="Assets\Assets\Data\12.png" />
-    <Content Include="Assets\Assets\Data\13.png" />
-    <Content Include="Assets\Assets\Data\14.png" />
-    <Content Include="Assets\Assets\Data\15.png" />
-    <Content Include="Assets\Assets\Data\16.png" />
-    <Content Include="Assets\Assets\Data\17.png" />
-    <Content Include="Assets\Assets\Data\18.png" />
-    <Content Include="Assets\Assets\Data\19.png" />
-    <Content Include="Assets\Assets\Data\2.png" />
-    <Content Include="Assets\Assets\Data\20.png" />
-    <Content Include="Assets\Assets\Data\21.png" />
-    <Content Include="Assets\Assets\Data\22.png" />
-    <Content Include="Assets\Assets\Data\23.png" />
-    <Content Include="Assets\Assets\Data\24.png" />
-    <Content Include="Assets\Assets\Data\25.png" />
-    <Content Include="Assets\Assets\Data\26.png" />
-    <Content Include="Assets\Assets\Data\27.png" />
-    <Content Include="Assets\Assets\Data\28.png" />
-    <Content Include="Assets\Assets\Data\29.png" />
-    <Content Include="Assets\Assets\Data\3.png" />
-    <Content Include="Assets\Assets\Data\30.png" />
-    <Content Include="Assets\Assets\Data\4.png" />
-    <Content Include="Assets\Assets\Data\5.png" />
-    <Content Include="Assets\Assets\Data\6.png" />
-    <Content Include="Assets\Assets\Data\7.png" />
-    <Content Include="Assets\Assets\Data\8.png" />
-    <Content Include="Assets\Assets\Data\9.png" />
-    <Content Include="Assets\Assets\Flaga\angAct.png" />
-    <Content Include="Assets\Assets\Flaga\angielski.png" />
-    <Content Include="Assets\Assets\Flaga\polski.png" />
-    <Content Include="Assets\Assets\Flaga\Wroc.png" />
-    <Content Include="Assets\Assets\IconNoTekst.png" />
-    <Content Include="Assets\Assets\IconPNG.png" />
-    <Content Include="Assets\Assets\icon\Icon1000.png" />
-    <Content Include="Assets\Assets\icon\Icon1116.png" />
-    <Content Include="Assets\Assets\icon\Icon120.png" />
-    <Content Include="Assets\Assets\icon\Icon150.png" />
-    <Content Include="Assets\Assets\icon\Icon16.png" />
-    <Content Include="Assets\Assets\icon\Icon210.png" />
-    <Content Include="Assets\Assets\icon\Icon24.png" />
-    <Content Include="Assets\Assets\icon\Icon248.png" />
-    <Content Include="Assets\Assets\icon\Icon256.png" />
-    <Content Include="Assets\Assets\icon\Icon270.png" />
-    <Content Include="Assets\Assets\icon\Icon30.png" />
-    <Content Include="Assets\Assets\icon\Icon300.png" />
-    <Content Include="Assets\Assets\icon\Icon310.png" />
-    <Content Include="Assets\Assets\icon\Icon32.png" />
-    <Content Include="Assets\Assets\icon\Icon33.scale-100.png" />
-    <Content Include="Assets\Assets\icon\Icon33.scale-140.png" />
-    <Content Include="Assets\Assets\icon\Icon33.scale-180.png" />
-    <Content Include="Assets\Assets\icon\Icon42.png" />
-    <Content Include="Assets\Assets\icon\Icon43.png" />
-    <Content Include="Assets\Assets\icon\Icon434.scale-140.png" />
-    <Content Include="Assets\Assets\icon\Icon48.scale-100.png" />
-    <Content Include="Assets\Assets\icon\Icon48.scale-140.png" />
-    <Content Include="Assets\Assets\icon\Icon48.scale-180.png" />
-    <Content Include="Assets\Assets\icon\Icon50.png" />
-    <Content Include="Assets\Assets\icon\Icon54.png" />
-    <Content Include="Assets\Assets\icon\Icon558.scale-100.png" />
-    <Content Include="Assets\Assets\icon\Icon558.scale-140.png" />
-    <Content Include="Assets\Assets\icon\Icon558.scale-180.png" />
-    <Content Include="Assets\Assets\icon\Icon558.scale-80.png" />
-    <Content Include="Assets\Assets\icon\Icon620.png" />
-    <Content Include="Assets\Assets\icon\Icon70.scale-100.png" />
-    <Content Include="Assets\Assets\icon\Icon868.png" />
-    <Content Include="Assets\Assets\icon\Icon90.png" />
-    <Content Include="Assets\Assets\Logo.scale-100.png" />
-    <Content Include="Assets\Assets\Logo.scale-140.png" />
-    <Content Include="Assets\Assets\Logo.scale-180.png" />
-    <Content Include="Assets\Assets\Logo.scale-80.png" />
-    <Content Include="Assets\Assets\polski.png" />
-    <Content Include="Assets\Assets\SmallLogo.scale-100.png" />
-    <Content Include="Assets\Assets\SmallLogo.scale-140.png" />
-    <Content Include="Assets\Assets\SmallLogo.scale-180.png" />
-    <Content Include="Assets\Assets\SmallLogo.scale-80.png" />
-    <Content Include="Assets\Assets\SplashScreen.scale-100.png" />
-    <Content Include="Assets\Assets\SplashScreen.scale-140.png" />
-    <Content Include="Assets\Assets\SplashScreen.scale-180.png" />
-    <Content Include="Assets\Assets\StoreLogo.scale-100.png" />
-    <Content Include="Assets\Assets\StoreLogo.scale-140.png" />
-    <Content Include="Assets\Assets\StoreLogo.scale-180.png" />
-    <Content Include="Assets\Assets\wallpaper.jpg" />
-    <Content Include="Assets\Assets\ZnamNieznam\NieZnam.png" />
-    <Content Include="Assets\Assets\ZnamNieznam\NieZnamAct.png" />
-    <Content Include="Assets\Assets\ZnamNieznam\Znam.png" />
-    <Content Include="Assets\Assets\ZnamNieznam\ZnamAct.png" />
     <Content Include="Assets\Data\1.png" />
     <Content Include="Assets\Data\10.png" />
     <Content Include="Assets\Data\11.png" />
@@ -224,46 +179,73 @@
     <Content Include="Assets\Flaga\angielski.png" />
     <Content Include="Assets\Flaga\polski.png" />
     <Content Include="Assets\Flaga\Wroc.png" />
+    <Content Include="Assets\FromD\angielski.png" />
+    <Content Include="Assets\FromD\back.png" />
+    <Content Include="Assets\FromD\Button.png" />
+    <Content Include="Assets\FromD\ButtonDark.png" />
+    <Content Include="Assets\FromD\Latwy.png" />
+    <Content Include="Assets\FromD\nieZnam.png" />
+    <Content Include="Assets\FromD\nieZnamDis.png" />
+    <Content Include="Assets\FromD\Normalny.png" />
+    <Content Include="Assets\FromD\polski.png" />
+    <Content Include="Assets\FromD\Trudny.png" />
+    <Content Include="Assets\FromD\znam.png" />
+    <Content Include="Assets\FromD\znamDis.png" />
     <Content Include="Assets\IconNoTekst.png" />
     <Content Include="Assets\IconPNG.png" />
     <Content Include="Assets\icon\Icon1000.png" />
-    <Content Include="Assets\icon\Icon1116.png" />
-    <Content Include="Assets\icon\Icon120.png" />
+    <Content Include="Assets\icon\Icon1116.scale-240.png" />
+    <Content Include="Assets\icon\Icon120.scale-240.png" />
     <Content Include="Assets\icon\Icon150.png" />
     <Content Include="Assets\icon\Icon16.png" />
-    <Content Include="Assets\icon\Icon210.png" />
-    <Content Include="Assets\icon\Icon24.png" />
+    <Content Include="Assets\icon\Icon210.scale-240.png" />
+    <Content Include="Assets\icon\Icon24.scale-100.png" />
     <Content Include="Assets\icon\Icon248.png" />
     <Content Include="Assets\icon\Icon256.png" />
     <Content Include="Assets\icon\Icon270.png" />
     <Content Include="Assets\icon\Icon30.png" />
-    <Content Include="Assets\icon\Icon300.png" />
+    <Content Include="Assets\icon\Icon300.scale-240.png" />
     <Content Include="Assets\icon\Icon310.png" />
     <Content Include="Assets\icon\Icon32.png" />
+    <Content Include="Assets\icon\Icon33.png" />
     <Content Include="Assets\icon\Icon33.scale-100.png" />
     <Content Include="Assets\icon\Icon33.scale-140.png" />
     <Content Include="Assets\icon\Icon33.scale-180.png" />
     <Content Include="Assets\icon\Icon42.png" />
     <Content Include="Assets\icon\Icon43.png" />
+    <Content Include="Assets\icon\Icon434.png" />
     <Content Include="Assets\icon\Icon434.scale-140.png" />
+    <Content Include="Assets\icon\Icon48.png" />
     <Content Include="Assets\icon\Icon48.scale-100.png" />
     <Content Include="Assets\icon\Icon48.scale-140.png" />
     <Content Include="Assets\icon\Icon48.scale-180.png" />
     <Content Include="Assets\icon\Icon50.png" />
     <Content Include="Assets\icon\Icon54.png" />
+    <Content Include="Assets\icon\Icon558.png" />
     <Content Include="Assets\icon\Icon558.scale-100.png" />
     <Content Include="Assets\icon\Icon558.scale-140.png" />
     <Content Include="Assets\icon\Icon558.scale-180.png" />
     <Content Include="Assets\icon\Icon558.scale-80.png" />
     <Content Include="Assets\icon\Icon620.png" />
+    <Content Include="Assets\icon\Icon70.png" />
     <Content Include="Assets\icon\Icon70.scale-100.png" />
-    <Content Include="Assets\icon\Icon868.png" />
+    <Content Include="Assets\icon\Icon868.scale-240.png" />
     <Content Include="Assets\icon\Icon90.png" />
+    <Content Include="Assets\icon\tbtExoz5VgsFQd2mn1cEUZaBicYIV63l6cUUpK8VW2vZQoLKvpsLHgCWlUpVVFXSvR9gVw=w941-h421.png" />
     <Content Include="Assets\Logo.scale-100.png" />
     <Content Include="Assets\Logo.scale-140.png" />
     <Content Include="Assets\Logo.scale-180.png" />
     <Content Include="Assets\Logo.scale-240.png" />
     <Content Include="Assets\Logo.scale-80.png" />
+    <Content Include="Assets\New\ButtonBlue.png" />
+    <Content Include="Assets\New\ButtonBlueClick.png" />
+    <Content Include="Assets\New\ButtonBluePointOver.png" />
+    <Content Include="Assets\New\ButtonNormal.png" />
+    <Content Include="Assets\New\ButtonPointOver.png" />
+    <Content Include="Assets\New\ButtonRed.png" />
+    <Content Include="Assets\New\ButtonRedPointOver.png" />
+    <Content Include="Assets\New\EnglishFlag.png" />
+    <Content Include="Assets\New\PolishFlag.jpg" />
     <Content Include="Assets\polski.png" />
     <Content Include="Assets\SmallLogo.scale-100.png" />
     <Content Include="Assets\SmallLogo.scale-140.png" />
@@ -285,20 +267,6 @@
     <Content Include="Assets\ZnamNieznam\NieZnamAct.png" />
     <Content Include="Assets\ZnamNieznam\Znam.png" />
     <Content Include="Assets\ZnamNieznam\ZnamAct.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Page Include="MainPage.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="NaukaPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="StatsPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
     <VisualStudioVersion>12.0</VisualStudioVersion>

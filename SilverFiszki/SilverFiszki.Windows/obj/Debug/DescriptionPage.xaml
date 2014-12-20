@@ -40,12 +40,19 @@
                         AutomationProperties.ItemType="Navigation Button"/>
 
         <!-- Description -->
-        <ScrollViewer Grid.Row="2" Grid.Column="1">
-            <TextBlock  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" TextAlignment="Center"
-                   FontSize="30">
-            Opis
-            </TextBlock>
-        </ScrollViewer>
+        <TextBlock Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" TextAlignment="Center"
+               FontSize="30">
+            Autorzy <LineBreak />
+            <LineBreak />
+            Logika i implementacja:<LineBreak />
+            Fabian Oleksiuk<LineBreak />
+            <LineBreak />
+            Grafika:<LineBreak />
+            Darek Pharm<LineBreak />
+            <LineBreak />
+            Treść:<LineBreak />
+            Mateusz Chodkowski
+        </TextBlock>
     </Grid>
 </Page>
 

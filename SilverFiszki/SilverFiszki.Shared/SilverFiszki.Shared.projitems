@@ -18,5 +18,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)Data.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PolishEanglishDictionary.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Score.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utils.cs" />
   </ItemGroup>
 </Project>

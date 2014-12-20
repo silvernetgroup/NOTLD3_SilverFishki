@@ -42,7 +42,7 @@
                                         />
 
         <!-- textblock - Zegar -->
-        <TextBlock Name="TimerTextBlock" Grid.Row="1" Grid.Column="1" Text="1:58" FontSize="40" VerticalAlignment="Top" HorizontalAlignment="Right" 
+        <TextBlock Name="TimerTextBlock" Grid.Row="1" Grid.Column="1" Text="0:00" FontSize="40" VerticalAlignment="Top" HorizontalAlignment="Right" 
                    Margin="39,39,39,39" Width="150" TextAlignment="Center" Height="60" />
 
         <!-- Textblock - Opis -->

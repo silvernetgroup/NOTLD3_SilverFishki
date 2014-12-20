@@ -22,270 +22,6 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\angielski.png">
       <PackagePath>Assets\angielski.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\1.png">
-      <PackagePath>Assets\Assets\Data\1.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\10.png">
-      <PackagePath>Assets\Assets\Data\10.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\11.png">
-      <PackagePath>Assets\Assets\Data\11.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\12.png">
-      <PackagePath>Assets\Assets\Data\12.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\13.png">
-      <PackagePath>Assets\Assets\Data\13.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\14.png">
-      <PackagePath>Assets\Assets\Data\14.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\15.png">
-      <PackagePath>Assets\Assets\Data\15.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\16.png">
-      <PackagePath>Assets\Assets\Data\16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\17.png">
-      <PackagePath>Assets\Assets\Data\17.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\18.png">
-      <PackagePath>Assets\Assets\Data\18.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\19.png">
-      <PackagePath>Assets\Assets\Data\19.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\2.png">
-      <PackagePath>Assets\Assets\Data\2.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\20.png">
-      <PackagePath>Assets\Assets\Data\20.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\21.png">
-      <PackagePath>Assets\Assets\Data\21.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\22.png">
-      <PackagePath>Assets\Assets\Data\22.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\23.png">
-      <PackagePath>Assets\Assets\Data\23.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\24.png">
-      <PackagePath>Assets\Assets\Data\24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\25.png">
-      <PackagePath>Assets\Assets\Data\25.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\26.png">
-      <PackagePath>Assets\Assets\Data\26.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\27.png">
-      <PackagePath>Assets\Assets\Data\27.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\28.png">
-      <PackagePath>Assets\Assets\Data\28.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\29.png">
-      <PackagePath>Assets\Assets\Data\29.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\3.png">
-      <PackagePath>Assets\Assets\Data\3.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\30.png">
-      <PackagePath>Assets\Assets\Data\30.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\4.png">
-      <PackagePath>Assets\Assets\Data\4.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\5.png">
-      <PackagePath>Assets\Assets\Data\5.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\6.png">
-      <PackagePath>Assets\Assets\Data\6.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\7.png">
-      <PackagePath>Assets\Assets\Data\7.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\8.png">
-      <PackagePath>Assets\Assets\Data\8.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Data\9.png">
-      <PackagePath>Assets\Assets\Data\9.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\angAct.png">
-      <PackagePath>Assets\Assets\Flaga\angAct.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\angielski.png">
-      <PackagePath>Assets\Assets\Flaga\angielski.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\polski.png">
-      <PackagePath>Assets\Assets\Flaga\polski.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Flaga\Wroc.png">
-      <PackagePath>Assets\Assets\Flaga\Wroc.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\IconNoTekst.png">
-      <PackagePath>Assets\Assets\IconNoTekst.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\IconPNG.png">
-      <PackagePath>Assets\Assets\IconPNG.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon1000.png">
-      <PackagePath>Assets\Assets\icon\Icon1000.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon1116.png">
-      <PackagePath>Assets\Assets\icon\Icon1116.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon120.png">
-      <PackagePath>Assets\Assets\icon\Icon120.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon150.png">
-      <PackagePath>Assets\Assets\icon\Icon150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon16.png">
-      <PackagePath>Assets\Assets\icon\Icon16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon210.png">
-      <PackagePath>Assets\Assets\icon\Icon210.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon24.png">
-      <PackagePath>Assets\Assets\icon\Icon24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon248.png">
-      <PackagePath>Assets\Assets\icon\Icon248.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon256.png">
-      <PackagePath>Assets\Assets\icon\Icon256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon270.png">
-      <PackagePath>Assets\Assets\icon\Icon270.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon30.png">
-      <PackagePath>Assets\Assets\icon\Icon30.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon300.png">
-      <PackagePath>Assets\Assets\icon\Icon300.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon310.png">
-      <PackagePath>Assets\Assets\icon\Icon310.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon32.png">
-      <PackagePath>Assets\Assets\icon\Icon32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-100.png">
-      <PackagePath>Assets\Assets\icon\Icon33.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-140.png">
-      <PackagePath>Assets\Assets\icon\Icon33.scale-140.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon33.scale-180.png">
-      <PackagePath>Assets\Assets\icon\Icon33.scale-180.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon42.png">
-      <PackagePath>Assets\Assets\icon\Icon42.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon43.png">
-      <PackagePath>Assets\Assets\icon\Icon43.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon434.scale-140.png">
-      <PackagePath>Assets\Assets\icon\Icon434.scale-140.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-100.png">
-      <PackagePath>Assets\Assets\icon\Icon48.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-140.png">
-      <PackagePath>Assets\Assets\icon\Icon48.scale-140.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon48.scale-180.png">
-      <PackagePath>Assets\Assets\icon\Icon48.scale-180.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon50.png">
-      <PackagePath>Assets\Assets\icon\Icon50.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon54.png">
-      <PackagePath>Assets\Assets\icon\Icon54.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-100.png">
-      <PackagePath>Assets\Assets\icon\Icon558.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-140.png">
-      <PackagePath>Assets\Assets\icon\Icon558.scale-140.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-180.png">
-      <PackagePath>Assets\Assets\icon\Icon558.scale-180.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon558.scale-80.png">
-      <PackagePath>Assets\Assets\icon\Icon558.scale-80.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon620.png">
-      <PackagePath>Assets\Assets\icon\Icon620.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon70.scale-100.png">
-      <PackagePath>Assets\Assets\icon\Icon70.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon868.png">
-      <PackagePath>Assets\Assets\icon\Icon868.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\icon\Icon90.png">
-      <PackagePath>Assets\Assets\icon\Icon90.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-100.png">
-      <PackagePath>Assets\Assets\Logo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-140.png">
-      <PackagePath>Assets\Assets\Logo.scale-140.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-180.png">
-      <PackagePath>Assets\Assets\Logo.scale-180.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\Logo.scale-80.png">
-      <PackagePath>Assets\Assets\Logo.scale-80.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\polski.png">
-      <PackagePath>Assets\Assets\polski.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-100.png">
-      <PackagePath>Assets\Assets\SmallLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-140.png">
-      <PackagePath>Assets\Assets\SmallLogo.scale-140.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-180.png">
-      <PackagePath>Assets\Assets\SmallLogo.scale-180.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SmallLogo.scale-80.png">
-      <PackagePath>Assets\Assets\SmallLogo.scale-80.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-100.png">
-      <PackagePath>Assets\Assets\SplashScreen.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-140.png">
-      <PackagePath>Assets\Assets\SplashScreen.scale-140.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\SplashScreen.scale-180.png">
-      <PackagePath>Assets\Assets\SplashScreen.scale-180.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-100.png">
-      <PackagePath>Assets\Assets\StoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-140.png">
-      <PackagePath>Assets\Assets\StoreLogo.scale-140.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\StoreLogo.scale-180.png">
-      <PackagePath>Assets\Assets\StoreLogo.scale-180.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\NieZnam.png">
-      <PackagePath>Assets\Assets\ZnamNieznam\NieZnam.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\NieZnamAct.png">
-      <PackagePath>Assets\Assets\ZnamNieznam\NieZnamAct.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\Znam.png">
-      <PackagePath>Assets\Assets\ZnamNieznam\Znam.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\ZnamNieznam\ZnamAct.png">
-      <PackagePath>Assets\Assets\ZnamNieznam\ZnamAct.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Data\1.png">
       <PackagePath>Assets\Data\1.png</PackagePath>
     </AppxPackagedFile>
@@ -388,6 +124,42 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Flaga\Wroc.png">
       <PackagePath>Assets\Flaga\Wroc.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\angielski.png">
+      <PackagePath>Assets\FromD\angielski.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\back.png">
+      <PackagePath>Assets\FromD\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\Button.png">
+      <PackagePath>Assets\FromD\Button.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\ButtonDark.png">
+      <PackagePath>Assets\FromD\ButtonDark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\Latwy.png">
+      <PackagePath>Assets\FromD\Latwy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\nieZnam.png">
+      <PackagePath>Assets\FromD\nieZnam.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\nieZnamDis.png">
+      <PackagePath>Assets\FromD\nieZnamDis.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\Normalny.png">
+      <PackagePath>Assets\FromD\Normalny.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\polski.png">
+      <PackagePath>Assets\FromD\polski.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\Trudny.png">
+      <PackagePath>Assets\FromD\Trudny.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\znam.png">
+      <PackagePath>Assets\FromD\znam.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\FromD\znamDis.png">
+      <PackagePath>Assets\FromD\znamDis.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\IconNoTekst.png">
       <PackagePath>Assets\IconNoTekst.png</PackagePath>
     </AppxPackagedFile>
@@ -397,11 +169,13 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon1000.png">
       <PackagePath>Assets\icon\Icon1000.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon1116.png">
-      <PackagePath>Assets\icon\Icon1116.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon1116.scale-240.png">
+      <PackagePath>Assets\icon\Icon1116.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon120.png">
-      <PackagePath>Assets\icon\Icon120.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon120.scale-240.png">
+      <PackagePath>Assets\icon\Icon120.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon150.png">
       <PackagePath>Assets\icon\Icon150.png</PackagePath>
@@ -409,11 +183,13 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon16.png">
       <PackagePath>Assets\icon\Icon16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon210.png">
-      <PackagePath>Assets\icon\Icon210.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon210.scale-240.png">
+      <PackagePath>Assets\icon\Icon210.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon24.png">
-      <PackagePath>Assets\icon\Icon24.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon24.scale-100.png">
+      <PackagePath>Assets\icon\Icon24.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon248.png">
       <PackagePath>Assets\icon\Icon248.png</PackagePath>
@@ -427,14 +203,18 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon30.png">
       <PackagePath>Assets\icon\Icon30.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon300.png">
-      <PackagePath>Assets\icon\Icon300.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon300.scale-240.png">
+      <PackagePath>Assets\icon\Icon300.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon310.png">
       <PackagePath>Assets\icon\Icon310.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon32.png">
       <PackagePath>Assets\icon\Icon32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon33.png">
+      <PackagePath>Assets\icon\Icon33.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon33.scale-100.png">
       <PackagePath>Assets\icon\Icon33.scale-100.png</PackagePath>
@@ -451,8 +231,14 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon43.png">
       <PackagePath>Assets\icon\Icon43.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon434.png">
+      <PackagePath>Assets\icon\Icon434.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon434.scale-140.png">
       <PackagePath>Assets\icon\Icon434.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon48.png">
+      <PackagePath>Assets\icon\Icon48.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon48.scale-100.png">
       <PackagePath>Assets\icon\Icon48.scale-100.png</PackagePath>
@@ -469,6 +255,9 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon54.png">
       <PackagePath>Assets\icon\Icon54.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon558.png">
+      <PackagePath>Assets\icon\Icon558.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon558.scale-100.png">
       <PackagePath>Assets\icon\Icon558.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -484,95 +273,108 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon620.png">
       <PackagePath>Assets\icon\Icon620.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon70.png">
+      <PackagePath>Assets\icon\Icon70.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon70.scale-100.png">
       <PackagePath>Assets\icon\Icon70.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon868.png">
-      <PackagePath>Assets\icon\Icon868.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon868.scale-240.png">
+      <PackagePath>Assets\icon\Icon868.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\Icon90.png">
       <PackagePath>Assets\icon\Icon90.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\icon\tbtExoz5VgsFQd2mn1cEUZaBicYIV63l6cUUpK8VW2vZQoLKvpsLHgCWlUpVVFXSvR9gVw=w941-h421.png">
+      <PackagePath>Assets\icon\tbtExoz5VgsFQd2mn1cEUZaBicYIV63l6cUUpK8VW2vZQoLKvpsLHgCWlUpVVFXSvR9gVw=w941-h421.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-140.png">
       <PackagePath>Assets\Logo.scale-140.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-180.png">
       <PackagePath>Assets\Logo.scale-180.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Logo.scale-80.png">
       <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\ButtonBlue.png">
+      <PackagePath>Assets\New\ButtonBlue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\ButtonBlueClick.png">
+      <PackagePath>Assets\New\ButtonBlueClick.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\ButtonBluePointOver.png">
+      <PackagePath>Assets\New\ButtonBluePointOver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\ButtonNormal.png">
+      <PackagePath>Assets\New\ButtonNormal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\ButtonPointOver.png">
+      <PackagePath>Assets\New\ButtonPointOver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\ButtonRed.png">
+      <PackagePath>Assets\New\ButtonRed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\ButtonRedPointOver.png">
+      <PackagePath>Assets\New\ButtonRedPointOver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\EnglishFlag.png">
+      <PackagePath>Assets\New\EnglishFlag.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\polski.png">
       <PackagePath>Assets\polski.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-140.png">
       <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-180.png">
       <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SmallLogo.scale-80.png">
       <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-140.png">
       <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-180.png">
       <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-140.png">
       <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-180.png">
       <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\ZnamNieznam\NieZnam.png">
       <PackagePath>Assets\ZnamNieznam\NieZnam.png</PackagePath>
@@ -586,8 +388,8 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\ZnamNieznam\ZnamAct.png">
       <PackagePath>Assets\ZnamNieznam\ZnamAct.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\Assets\wallpaper.jpg">
-      <PackagePath>Assets\Assets\wallpaper.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\New\PolishFlag.jpg">
+      <PackagePath>Assets\New\PolishFlag.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\Assets\wallpaper.jpg">
       <PackagePath>Assets\wallpaper.jpg</PackagePath>
@@ -595,14 +397,26 @@
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\DescriptionPage.xbf">
+      <PackagePath>DescriptionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\LanguageChoosePage.xbf">
+      <PackagePath>LanguageChoosePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\LearnPage.xbf">
+      <PackagePath>LearnPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\LevelChoosePage.xbf">
+      <PackagePath>LevelChoosePage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\NaukaPage.xbf">
-      <PackagePath>NaukaPage.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\RankPage.xbf">
+      <PackagePath>RankPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\StatsPage.xbf">
-      <PackagePath>StatsPage.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\ResultPage.xbf">
+      <PackagePath>ResultPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fabian\Desktop\workspace\Fishki2\SilverFiszki\SilverFiszki.WindowsPhone\bin\Debug\SilverFiszki.WindowsPhone.xr.xml">
       <PackagePath>SilverFiszki.WindowsPhone.xr.xml</PackagePath>

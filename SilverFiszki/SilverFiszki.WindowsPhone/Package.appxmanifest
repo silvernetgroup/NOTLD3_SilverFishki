@@ -5,7 +5,7 @@
   <Properties>
     <DisplayName>SilverFiszki.WindowsPhone</DisplayName>
     <PublisherDisplayName>Mateusz</PublisherDisplayName>
-    <Logo>Assets\StoreLogo.png</Logo>
+    <Logo>Assets\icon\Icon120.png</Logo>
   </Properties>
   <Prerequisites>
     <OSMinVersion>6.3.1</OSMinVersion>
@@ -16,10 +16,14 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="SilverFiszki.WindowsPhone.App">
-      <m3:VisualElements DisplayName="SilverFiszki.WindowsPhone" Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\SmallLogo.png" Description="SilverFiszki.WindowsPhone" ForegroundText="light" BackgroundColor="transparent">
-        <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\Square71x71Logo.png">
+      <m3:VisualElements DisplayName="Silver Fishki" Square150x150Logo="Assets\icon\Icon300.png" Square44x44Logo="Assets\icon\Icon120.png" Description="SilverFiszki.WindowsPhone" ForegroundText="light" BackgroundColor="transparent">
+        <m3:DefaultTile Wide310x150Logo="Assets\icon\Icon868.png" Square71x71Logo="Assets\icon\Icon210.png">
         </m3:DefaultTile>
-        <m3:SplashScreen Image="Assets\SplashScreen.png" />
+        <m3:LockScreen Notification="badge" BadgeLogo="Assets\icon\Icon24.png" />
+        <m3:SplashScreen Image="Assets\icon\Icon1116.png" BackgroundColor="#019772" />
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
       </m3:VisualElements>
     </Application>
   </Applications>
